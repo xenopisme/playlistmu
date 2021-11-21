@@ -783,11 +783,11 @@ https://liveanevia.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 #EXTINF:-1 tvg-logo=https://i.postimg.cc/K8xLSfwW/ikonser.png group-title=Music, iKonser
-http://iptvid.my.id/ch/ikonser.m3u8?by=iptv_id
+http://iptvid.my.id/usee/ikonser.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo=https://i.postimg.cc/Th8w92MS/mtvlive.png group-title=Music, MTV Live
-http://iptvid.my.id/ch/mtv.m3u8?by=iptv_id
+http://iptvid.my.id/usee/mtv.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo=http://images.useetv.com/logo_prambors_big1.png group-title=Music, Prambors Tv
-http://iptvid.my.id/ch/prambors.m3u8?by=iptv_id
+http://iptvid.my.id/usee/prambors.m3u8?by=iptv_id
 
 ***
 
@@ -797,6 +797,8 @@ http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 #EXTINF:-1 tvg-logo=http://tvmalaysia.cc:80/images/0bb9f1ec6575c3609eb8af6c1ba0e154.jpg group-title=Malaysia, ASTRO CERIA
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1 tvg-logo=http://tvmalaysia.cc:80/images/0bb9f1ec6575c3609eb8af6c1ba0e154.jpg group-title=Malaysia, ASTRO RIA
+http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo=http://tvmalaysia.cc:80/images/d5f15dd37f6373993e7ce1bbf5865cde.png group-title=Malaysia, ASTRO CITRA
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1 tvg-logo=http://tvmalaysia.cc:80/images/3fc806e53327b40380da6ee1da935b08.png group-title=Malaysia, ASTRO NAURA
