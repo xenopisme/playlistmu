@@ -90,9 +90,10 @@ http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png" group-title="TV Lokal", Indosiar
 http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png" group-title="TV Lokal", Indosiar
-http://akudandia.xyz/locs/akudandia-205.m3u8
+http://tvn.x10.mx/vidio/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png" group-title="TV Lokal", Indosiar
-http://210.210.155.35/qwr9ew/s/s04/01.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
+/http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png" group-title="TV Lokal", CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
@@ -125,7 +126,7 @@ http://210.210.155.35:80/uq2663/h/h11/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png" group-title="TV Lokal", SCTV
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png" group-title="TV Lokal", SCTV
-http://akudandia.xyz/locs/akudandia-204.m3u8
+http://tvn.x10.mx/vidio/master-1.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png" group-title="TV Lokal", SCTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 
@@ -524,12 +525,12 @@ http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist.m
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y6ZjN2Q4/adsports3.png" group-title="Sports", AD Sports 3 HD
 http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/MpLz7bkN/championstv1_hd.png" group-title="Sports", Champions TV 1 HD
-https://bagoltvku.my.id/CH/vid2/championstv1.m3u8
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/0QYx1T61/championstv2_hd.png" group-title="Sports", Champions TV 2 HD
-https://bagoltvku.my.id/CH/vid2/championstv2.m3u8
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/15XFxDc5/championstv3.png" group-title="Sports", Champions TV 3 HD
-https://bagoltvku.my.id/CH/vid2/championstv3.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpLz7bkN/championstv1_hd.png" group-title="Sports", Champions TV 1 HD
+http://tvn.x10.mx/vidio/master-7.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QYx1T61/championstv2_hd.png" group-title="Sports", Champions TV 2 HD
+http://tvn.x10.mx/vidio/master-8.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/15XFxDc5/championstv3.png" group-title="Sports", Champions TV 3 HD
+http://tvn.x10.mx/vidio/master-9.m3u8
 ##EXTINF:-1 tvg-logo="https://i.postimg.cc/15XFxDc5/championstv3.png" group-title="Sports", Champions TV 4 HD
 http://tvn.x10.bz/xchannel/master-17.m3u8
 
@@ -550,7 +551,8 @@ http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65GDxdby/onegolf.png" group-title="Sports", One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCssJrH3/Ochannel.png" group-title="Sports", O Channel
-http://akudandia.xyz/locs/akudandia-206.m3u8
+http://tvn.x10.mx/vidio/master-13.m3u8
+/http://210.210.155.35/qwr9ew/s/s41/index.m3u8
 ##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_horizonsport_small.png" group-title="Sports", Horizon Sports
 http://15.235.142.228:8080/live/hometvfree/selaludihati/76.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/850wLhtb/motorvisiontv.png" group-title="Sports", Motorvision Tv
@@ -1149,6 +1151,7 @@ http://210.210.155.35/x6bnqe/s/s81/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kG4dkcTB/zoomookids.png" group-title="Kids", ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kG4dkcTB/zoomookids.png" group-title="Kids", ZooMoo
+http://tvn.x10.mx/vidio/master-17.m3u8
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8?token=togepasar
 
 ***
