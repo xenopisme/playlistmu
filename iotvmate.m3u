@@ -337,8 +337,7 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 https://anevia115.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHg5Ydjr/cinemax.png" group-title="Movies", Cinemax GO
-http://andistores.my.id/hbo/mulai.m3u8?id=maxhd
-http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=max
+http://makanja.xyz/hbo/play.php?id=maxhd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -351,9 +350,7 @@ https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 https://anevia115.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5mSyZ6N/hbo.png" group-title="Movies", HBO GO
-http://andistores.my.id/hbo/mulai.m3u8?id=hbohd
-http://andistores.my.id/hbo/mulai.php?id=hbohd
-http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
+http://makanja.xyz/hbo/play.php?id=hbohd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -366,7 +363,7 @@ https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 https://anevia115.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pL4xjhT3/hbohits.png" group-title="Movies", HBO Hits GO
-http://andistores.my.id/hbo/mulai.m3u8?id=hitshd
+http://makanja.xyz/hbo/play.php?id=hitshd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -379,8 +376,7 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mp
 https://anevia115.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nhzBz5j0/hbosig.png" group-title="Movies", HBO Signature GO
-http://andistores.my.id/hbo/mulai.m3u8?id=sighd
-http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=sig
+http://makanja.xyz/hbo/play.php?id=sighd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -393,8 +389,7 @@ https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 https://anevia115.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/507jZ9pJ/hbofam.png" group-title="Movies", HBO Family GO
-http://andistores.my.id/hbo/mulai.m3u8?id=famhd
-http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=fam
+http://makanja.xyz/hbo/play.php?id=famhd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -526,11 +521,11 @@ http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist.m
 http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MpLz7bkN/championstv1_hd.png" group-title="Sports", Champions TV 1 HD
-http://tvn.x10.mx/vidio/master-7.m3u8
+http://tv.zonanime.my.id/vidio/championstv1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QYx1T61/championstv2_hd.png" group-title="Sports", Champions TV 2 HD
-http://tvn.x10.mx/vidio/master-8.m3u8
+http://tv.zonanime.my.id/vidio/championstv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/15XFxDc5/championstv3.png" group-title="Sports", Champions TV 3 HD
-http://tvn.x10.mx/vidio/master-9.m3u8
+http://tv.zonanime.my.id/vidio/championstv3.m3u8
 ##EXTINF:-1 tvg-logo="https://i.postimg.cc/15XFxDc5/championstv3.png" group-title="Sports", Champions TV 4 HD
 http://tvn.x10.bz/xchannel/master-17.m3u8
 
@@ -1217,154 +1212,46 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 ***
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKnpJqx/Alive2020.jpg" group-title="Box Office", Alive
-https://stream.xpeer.xyz/playlist1/alive-saraitda-2020/master_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYjFvVJp/Blackwidow.jpg" group-title="Box Office", Black Widow
-https://stream.xpeer.xyz/playlist1/black-widow-2021/master_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tbNLGZH/Captainmarvel.jpg" group-title="Box Office", Captain Marvel
-https://stream.xpeer.xyz/playlist1/captain-marvel-2019/master_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/h4d398Qj/Deathonthenile.jpg" group-title="Box Office", Death On The Nile
-https://stream.xpeer.xyz/playlist1/death-on-the-nile-2022/master_480.m3u8
+https://cdn6277086d9b6ae.leehii.xyz/cdn/stream/files/7e3c69668812c05c4a09291b2b09cf94/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gkyJKnJ9/dune2021.jpg" group-title="Box Office", Dune
-https://stream.xpeer.xyz/playlist1/dune-2021/master_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfDpQdrK/Doctorstrange-2016.jpg" group-title="Box Office", Doctor Strange
-https://stream.xpeer.xyz/playlist1/doctor-strange-2016/master_480.m3u8
-
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/FKnxDDH6/dontbreathe.jpg" group-title="Box Office", Dont Breathe 2
-https://stream.xpeer.xyz/playlist1/dont-breathe-2-2021/master_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sg3jQrDs/Dontlookup.jpg" group-title="Box Office", Dont Look Up
-https://stream.xpeer.xyz/playlist1/dont-look-up-2021/master_480.m3u8
+https://cdn628cb85326798.somiii.xyz/cdn/stream/files/f1b31baaf084d9fae587045a3aebb601/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vBJgdDxk/Eternals.jpg" group-title="Box Office", Eternals
-https://stream.xpeer.xyz/playlist1/eternals-2021/master_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TwSTQ0Hk/Fantasticbeasts-2022.jpg" group-title="Box Office", Fantastic Beasts: The Secrets of Dumbledore
-https://stream.xpeer.xyz/playlist1/fantastic-beasts-the-secrets-of-dumbledore-2022-11.05.2022-15.06.45/master_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xMVVj0Y/finch.jpg" group-title="Box Office", Finch
-https://stream.xpeer.xyz/playlist2/finch-2021/master_360.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2y2ZH5zx/Freeguy.jpg" group-title="Box Office", Free Guy
-https://stream.xpeer.xyz/playlist1/free-guy-2021/master_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqWrvVDP/Godzillakong.jpg" group-title="Box Office", Godzilla vs. Kong
-https://stream.xpeer.xyz/playlist1/godzilla-vs-kong-2021/master_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/65Y4rT3j/Junglecruise.jpg" group-title="Box Office", Jungle Cruise
-https://stream.xpeer.xyz/playlist1/jungle-cruise-2021/master_480.m3u8
+https://cdn62770875820b6.somiii.xyz/cdn/stream/files/9636315c85998688363d606db0cbf224/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Fr26HhB/Kingdom.jpg" group-title="Box Office", Kingdom: Ashin of the North
-https://stream.xpeer.xyz/playlist1/kingdom-ashin-of-the-north-2021/master_720.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6bh876H/midway.jpg" group-title="Box Office", Midway
-https://stream.xpeer.xyz/playlist1/midway-2019/master_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2JvVyng/Mortalkombat.jpg" group-title="Box Office", Mortal Kombat 2021
-https://stream.xpeer.xyz/playlist1/mortal-kombat-2021/master_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/q7H7vxK3/Orientexpress.jpg" group-title="Box Office", Murder on the Orient Express
-https://stream.xpeer.xyz/playlist1/murder-orient-express-2017/master_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnDjF0k8/Nobody2021.jpg" group-title="Box Office", Nobody
-https://stream.xpeer.xyz/playlist1/nobody-2021/master_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCyBGzR2/jb007.jpg" group-title="Box Office", No Time To Die
-https://stream.xpeer.xyz/playlist1/no-time-to-die-2021/master_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6xyS6f6/Rednotice.jpg" group-title="Box Office", Red Notice
-https://stream.xpeer.xyz/playlist1/red-notice-2021/master_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRMJg8cB/Residentevil-2021.jpg" group-title="Box Office", Resident Evil: Welcome to Raccoon City
-https://stream.xpeer.xyz/playlist1/resident-evil-welcome-to-raccoon-city-2021/master_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wtVLFBW/Samuraix.jpg" group-title="Box Office", Rurouni Kenshin: Final Chapter
-https://stream.xpeer.xyz/playlist1/rurouni-kenshin-final-chapter-part-i-the-final-rurani-kenshin-sai-shasha-the-final-2021/master_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yRwT1PV/Samuraixx.jpg" group-title="Box Office", Rurouni Kenshin: The Beginning
-https://stream.xpeer.xyz/playlist1/rurouni-kenshin-final-chapter-part-ii-the-begining-2021/master_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvhJ0XSt/Shangchi.jpg" group-title="Box Office", Shang-Chi And The Legend Of The Ten Rings
-https://stream.xpeer.xyz/playlist1/shang-chi-and-the-legend-of-the-ten-rings-2021/master_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1z6Hzfym/Sonic.jpg" group-title="Box Office", Sonic The Hedgehog
-https://stream.xpeer.xyz/playlist1/sonic-the-hedgehog-2020/master_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNtQw4sx/Spidifarfromhome.jpg" group-title="Box Office", Spider-Man : Far From Home
-https://stream.xpeer.xyz/playlist1/spider-man-far-from-home-2019/master_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pT6f7S9j/Nowayhome.jpg" group-title="Box Office", Spider-Man : No Way Home
-https://stream.xpeer.xyz/playlist1/spider-man-no-way-home-2021/master_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmzR9dkR/Spencer.jpg" group-title="Box Office", Spencer
-https://stream.xpeer.xyz/playlist2/spencer-2021/master_480.m3u8
-
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/tRtjGW2R/Theforgottenbattle.jpg" group-title="Box Office", The Forgotten Battle
-https://cdns2.uplayer.xyz/files/e61bb229b4acf7ac5ef368a6ac69a377/hls/h.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hhWJj7PM/Thelastduel2021.jpg" group-title="Box Office", The Last Duel
-https://stream.xpeer.xyz/playlist1/the-last-duel-2021/master_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zvBvR7fN/Thesuicidesquad.jpg" group-title="Box Office", The Suicide Squad
-https://stream.xpeer.xyz/playlist1/the-suicide-squad-2021/master_480.m3u8
-
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/HWBdkMjL/Theunforgivable.jpg" group-title="Box Office", The Unforgivable
-https://cdns2.uplayer.xyz/files/d858175739433b5516bc5b393d98b8b7/hls/h.m3u8
+https://cdn628cb84c4ef23.ailee.xyz/cdn/stream/files/9db6f185d4ae4c2667dbdbedd272efef/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFRk3DZ0/Lastnightinsoho.jpg" group-title="Box Office", Last Night In Soho
-https://stream.xpeer.xyz/playlist1/last-night-in-soho-2021/master_480.m3u8
-https://www1.xpeer.xyz/hls/last-night-in-soho-2021/playlist_480.m3u8
+https://cdn630887eb93384.suzyyy.xyz/cdn/stream/files/c360956b3022c4f51220d87e182cd48e/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2JvVyng/Mortalkombat.jpg" group-title="Box Office", Mortal Kombat 2021
+https://cdn627708778c962.somiii.xyz/cdn/stream/files/aa0c75816a3dd9df7b094bb0e983c213/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCyBGzR2/jb007.jpg" group-title="Box Office", No Time To Die
+https://cdn628cb84fa3d6b.jihyoo.xyz/cdn/stream/files/dc0a692646993335b395d978f8cd30f7/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4NSWQtrH/Topgunmaverick-2022.jpg" group-title="Box Office", Top Gun: Maverick
+https://cdn6277086998ea8.jihyoo.xyz/cdn/stream/files/312385a907b043fb8793bce06cfc221d/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4NWsBstM/Thekingsman-2021.jpg" group-title="Box Office", The King’s Man
+https://cdn62770879b5330.suzyyy.xyz/cdn/stream/files/77709ebc99694419c47d598273c16e7c/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hhWJj7PM/Thelastduel2021.jpg" group-title="Box Office", The Last Duel
+https://cdn628cb84c4ef23.ailee.xyz/cdn/stream/files/37bb8f30249c76a069b68d8ea9769396/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTL4hp8H/Thenorthman-2022.jpg" group-title="Box Office", The Northman
+https://cdn62b944213ef68.taeeyeoon.xyz/cdn/stream/files/22a7ae3d06b68be257b47cc150430a88/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zvBvR7fN/Thesuicidesquad.jpg" group-title="Box Office", The Suicide Squad
+https://cdn627708709bed2.pinktwice.xyz/cdn/stream/files/8303e6be59e69cc871da9352ba55e606/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWBdkMjL/Theunforgivable.jpg" group-title="Box Office", The Unforgivable
+https://cdn6277086680706.jenniee.xyz/cdn/stream/files/d858175739433b5516bc5b393d98b8b7/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NGrssW32/Uncharted-2022.jpg" group-title="Box Office", Uncharted
+https://cdn62b94419d5b39.jenniee.xyz/cdn/stream/files/4041284e14e1e430a342184ae3f92326/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vB6Lm823/Venom2021.png" group-title="Box Office", VENOM: Let There Be Carnage
-https://stream.xpeer.xyz/playlist1/venom-let-there-be-carnage-2021/master_480.m3u8
-
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/Ls1Kqsbm/Movie1917.jpg" group-title="Box Office", 1917
-https://stream.xpeer.xyz/playlist1/1917-2019/master_480.m3u8
-
-***
-
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/cHK3BCrP/Bilal.jpg" group-title="Animation", Bilal
-https://stream.xpeer.xyz/playlist1/bilal-a-new-breed-of-hero-2018/master_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1X3YRptb/Bighero.jpg" group-title="Animation", Big Hero 6
-https://stream.xpeer.xyz/playlist1/big-hero-6-2014/master_480.m3u8
-
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/g0KptH6Z/Coco.jpg" group-title="Animation", Coco
-https://stream.xpeer.xyz/playlist1/coco-2017/master_480.m3u8
-
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/3JpVHsXY/Chipndale-2022.jpg" group-title="Animation", Chip and Dale: Rescue Rangers
-https://stream.xpeer.xyz/playlist1/chip-n-dale-rescue-rangers-2022/master_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5Ff8vhs/doraemon.jpg" group-title="Animation", Doraemon: Stand by Me 2
-https://stream.xpeer.xyz/playlist1/stand-by-me-doraemon-2-2020/master_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkr77b2S/Encanto2021.jpg" group-title="Animation", Encanto
-https://stream.xpeer.xyz/playlist1/encanto-2021/master_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4N5272tq/Frozen.jpg" group-title="Animation", Frozen II
-https://stream.xpeer.xyz/playlist1/frozen-ii-2019/master_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLN6fzPf/Theiceage-2022.jpg" group-title="Animation", The Ice Age Adventures of Buck Wild
-https://stream.xpeer.xyz/playlist1/the-ice-age-adventures-of-buck-wild-2022/master_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0jqMsfy0/Moana.jpg" group-title="Animation", Moana
-https://stream.xpeer.xyz/playlist1/moanaa-2016/master_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/66GK7Zd5/Pawpatrol.jpg" group-title="Animation", Paw Patrol The Movie
-https://stream.xpeer.xyz/playlist1/paw-patrol-the-movie-2021/master_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTW59nsj/Raya.jpg" group-title="Animation", Raya
-https://stream.xpeer.xyz/playlist1/raya-and-the-last-dragon-2021/master_480.m3u8
-
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/N0hr4p7k/Thelionking.jpg" group-title="Animation", The Lion King
-https://stream.xpeer.xyz/playlist1/the-lion-king-2019/master_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5Ndkrb7v/Themitchells.jpg" group-title="Animation", The Mitchells vs. The Machines
-https://stream.xpeer.xyz/playlist1/the-mitchells-vs-the-machines-the-mitchells-vs-the-machines-2021/master_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMnw4S5k/Thespongebob.jpg" group-title="Animation", The SpongeBob Movie: Sponge on The Run
-https://stream.xpeer.xyz/playlist1/the-spongebob-movie-sponge-on-the-run-2020/master_480.m3u8
+https://cdn6294af892f605.jenniee.xyz/cdn/stream/files/3f394eef4303f93dce2676d62acab9e5/play.m3u8
