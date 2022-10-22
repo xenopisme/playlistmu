@@ -4,8 +4,10 @@
 http://210.210.155.35:80/qwr9ew/s/s11/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_tvri_big1.png" group-title="TV Lokal", TVRI
 http://210.210.155.35/qwr9ew/s/s11/index.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_tvri_big1.png" group-title="TV Lokal", TVRI
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=c74d97b01eae257e44aa9d5bade97baf268ef7e5a44f541a7cbde7626ef57566
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/sXDcZVkP/tvrisporthd.jpg" group-title="TV Lokal", TVRI Sport
+http://210.210.155.37:80/qwr9ew/s/s107/01.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/sXDcZVkP/tvrisporthd.jpg" group-title="TV Lokal", TVRI Sport
+http://210.210.155.37/qwr9ew/s/s107/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_net_big1.png" group-title="TV Lokal", NET.
 http://210.210.155.35:80/qwr9ew/s/s08/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_net_big1.png" group-title="TV Lokal", NET.
@@ -76,33 +78,33 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_big1.png" group-title="TV Lokal", INDOSIAR
 http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_big1.png" group-title="TV Lokal", INDOSIAR
-http://tvn.x10.mx/vidio/master.m3u8
+http://tvn.x10.mx/1/master-11.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_big1.png" group-title="TV Lokal", INDOSIAR
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
+http://tv.zonanime.my.id/vidio/indosiar.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_big1.png" group-title="TV Lokal", SCTV
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_big1.png" group-title="TV Lokal", SCTV
-http://tvn.x10.mx/vidio/master-1.m3u8
+http://tvn.x10.mx/1/master-12.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_big1.png" group-title="TV Lokal", SCTV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
+http://tvn.x10.mx/1/master-12.m3u8?dl=1
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/ZKK8y1k1/RCTI.png" group-title="TV Lokal", RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
+https://live1.rctiplus.com/RCTI2022.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/ZKK8y1k1/RCTI.png" group-title="TV Lokal", RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d35d0ifx19oopq.cloudfront.net/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
+https://live1.rctiplus.com/RCTI2022.m3u8?dl=1
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/ZKK8y1k1/RCTI.png" group-title="TV Lokal", RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8?id=rcti
+https://live1.rctiplus.com/RCTI2022.m3u8?id=rcti
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/HsXrnznf/GTV.png" group-title="TV Lokal", GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d9se4hqsqt2j2.cloudfront.net/GTV2022.m3u8
+https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/HsXrnznf/GTV.png" group-title="TV Lokal", GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d9se4hqsqt2j2.cloudfront.net/GTV2022-avc1_1000000=4-mp4a_96000=2.m3u8
+https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8?dl=1
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/HsXrnznf/GTV.png" group-title="TV Lokal", GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d9se4hqsqt2j2.cloudfront.net/GTV2022.m3u8?id=gtv
+https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8?id=gtv
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/hj5FCD2T/mnctv.png" group-title="TV Lokal", MNC TV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
@@ -187,13 +189,13 @@ http://axcestv.vip:8080/FreeSG/axcestv/602
 ##EXTINF:-1 tvg-logo="https://i.postimg.cc/W1svZszL/astrosp5.png" group-title="Sports", ASSP 5
 http://axcestv.vip:8080/FreeSG/axcestv/602?id=play
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Sports", beIN Sports 1
-https://delivery.macan.network/stream/macan_sport_1/playlist.m3u8?token=n9x3qzj&v=20200807
+https://nonton.site:8443/live/indoneuetyhbsrt/bxbdrtyhevxh/728.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Sports", beIN Sports 1
-https://nonton.site:8443/live/balubaid2/Erlangga2/728.m3u8
+https://nonton.site:8443/live/indoneuetyhbsrt/bxbdrtyhevxh/728.m3u8?id=beins1
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein3_big1.png" group-title="Sports", beIN Sports 3
-https://delivery.macan.network/stream/macan_sport_2/playlist.m3u8?token=n9x3qzj&v=20200807
+https://nonton.site:8443/live/indoneuetyhbsrt/bxbdrtyhevxh/729.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein3_big1.png" group-title="Sports", beIN Sports 3
-https://nonton.site:8443/live/balubaid2/Erlangga2/729.m3u8
+https://nonton.site:8443/live/indoneuetyhbsrt/bxbdrtyhevxh/728.m3u8?id=beins2
 ##EXTINF:-1 tvg-logo="https://i.postimg.cc/1twFxYDM/beinsprem1.png" group-title="Sports", beIN Sports Premium 1 FHD
 http://217.74.16.155:8082/local//ar-s/B-S-pre-1-stop/index.m3u8
 ##EXTINF:-1 tvg-logo="https://i.postimg.cc/J46GFW9M/beinsprem2.png" group-title="Sports", beIN Sports Premium 2 FHD
@@ -201,11 +203,11 @@ http://217.74.16.155:8082/local//ar-s/B-S-pre-2-stop/index.m3u8
 ##EXTINF:-1 tvg-logo="https://i.postimg.cc/Jhb7Rwdy/beinsprem3.png" group-title="Sports", beIN Sports Premium 3 FHD
 http://217.74.16.155:8082/local//ar-s/B-S-pre-3-stop/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MpLz7bkN/championstv1_hd.png" group-title="Sports", Champions TV 1 HD
-http://tvn.x10.mx/vidio/master-7.m3u8
+http://tv.zonanime.my.id/vidio/championstv1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QYx1T61/championstv2_hd.png" group-title="Sports", Champions TV 2 HD
-http://tvn.x10.mx/vidio/master-8.m3u8
+http://tv.zonanime.my.id/vidio/championstv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/15XFxDc5/championstv3.png" group-title="Sports", Champions TV 3 HD
-http://tvn.x10.mx/vidio/master-9.m3u8
+http://tv.zonanime.my.id/vidio/championstv3.m3u8
 ##EXTINF:-1 tvg-logo="https://i.postimg.cc/15XFxDc5/championstv3.png" group-title="Sports", Champions TV 4 HD
 http://tvn.x10.mx/vidio/master-17.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqSJykZ9/dubaisports.png" group-title="Sports", Dubai Sports 1
@@ -238,20 +240,18 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreami
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zB5xNpg9/stadium.png" group-title="Sports", Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8
-##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_spotv_big.png" group-title="Sports", SPOTV
-https://nonton.site:8443/live/balubaid2/Erlangga2/51.m3u8
-##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_spotv_big.png" group-title="Sports", SPOTV
-http://axcestv.vip:8080/FreeSG/axcestv/617
-##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_spotv2_big.png" group-title="Sports", SPOTV 2
-https://nonton.site:8443/live/balubaid2/Erlangga2/101.m3u8
-##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_spotv2_big.png" group-title="Sports", SPOTV 2
-http://axcestv.vip:8080/FreeSG/axcestv/618
-##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useesport_big.png" group-title="Sports", Usee Sport
-https://stream-delivery.mapalus.xyz/live/tv/group1/chno/921.m3u8
-https://delivery.macan.network/stream/macan_sport_3/playlist.m3u8?token=n9x3qzj&v=20200807
-##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useesports2_big.png" group-title="Sports", Usee Sports 2
-https://stream-delivery.mapalus.xyz/live/tv/group1/chno/312.m3u8
-https://delivery.macan.network/stream/macan_sport_4/playlist.m3u8?token=n9x3qzj&v=20200807
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_spotv_big.png" group-title="Sports", SPOTV
+http://golive.yn.lt/stream/spotv/01.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_spotv_big.png" group-title="Sports", SPOTV
+https://nonton.site:8443/live/indoneuetyhbsrt/bxbdrtyhevxh/51.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_spotv2_big.png" group-title="Sports", SPOTV 2
+http://golive.yn.lt/stream/spotv/02.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_spotv2_big.png" group-title="Sports", SPOTV 2
+https://nonton.site:8443/live/indoneuetyhbsrt/bxbdrtyhevxh/101.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useesport_big.png" group-title="Sports", Usee Sport
+http://iptvid.my.id/hmm/useetl1.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useesports2_big.png" group-title="Sports", Usee Sports 2
+http://iptvid.my.id/hmm/useetl2.m3u8
 
 ***
 
@@ -278,13 +278,13 @@ http://210.210.155.35:80/dr9445/h/h04/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_big.png" group-title="Movies", Cinema World
 http://210.210.155.35/dr9445/h/h04/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTDvvX7L/citrabios.png" group-title="Movies", Citra Bioskop
-http://tvn.x10.mx/vidio/master-2.m3u8
+http://tv.zonanime.my.id/vidio/citrabioskop.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTDvvX7L/citrabios.png" group-title="Movies", Citra Bioskop
-http://tvn.x10.mx/vidio/master-2.m3u8?id=citrabioskop
+http://tvn.x10.mx/1/master.m3u8?id=citrabioskop
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_citradrama_big.png" group-title="Movies", Citra Drama
-http://tvn.x10.mx/vidio/master-3.m3u8
+http://tv.zonanime.my.id/vidio/citradrama.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_citradrama_big.png" group-title="Movies", Citra Drama
-http://tvn.x10.mx/vidio/master-3.m3u8?id=cdrama
+http://tvn.x10.mx/1/master-1.m3u8?id=citradrama
 ##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_chinesedrama_big.png" group-title="Movies", Chinese Drama
 http://15.235.142.228:8080/live/hometvfree/selaludihati/61.m3u8
 ##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_chinesedrama_big.png" group-title="Movies", Chinese Drama
@@ -556,14 +556,14 @@ http://210.210.155.35:80/qwr9ew/s/s22/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_trtworld_small.png" group-title="News", TRT World
 http://210.210.155.35:80/uq2663/h/h156/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tv5monde_big1.png" group-title="News", TV5Monde
-http://210.210.155.35:80/dr9445/s/s24/01.m3u8
+http://210.210.155.35/dr9445/s/s212/01.m3u8
 
 ***
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_animax_big.png" group-title="Kids", Animax
 http://210.210.155.35:80/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_aniplus_big1.png" group-title="Kids", Aniplus
-http://210.210.155.35:80/dr9445/h/h02/01.m3u8
+https://nonton.site:8443/live/indoneuetyhbsrt/bxbdrtyhevxh/2.m3u8
 ##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_aniplus_big1.png" group-title="Kids", Aniplus
 http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=aniplus&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_babyfirst_big.png" group-title="Kids", Babyfirst
@@ -582,10 +582,10 @@ http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=davinci&bandwidth=defau
 http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=duniaanak&bandwidth=default&sync=0
 ##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_duniaanak_big1.png" group-title="Kids", Dunia Anak
 http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=duniaanak&bandwidth=default&sync=
-##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_horee_big.png" group-title="Kids", Horee
-http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=horee&bandwidth=default&sync=0
-##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_horee_big.png" group-title="Kids", Horee
-http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=horee&bandwidth=default&sync=
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_horee_big.png" group-title="Kids", Horee
+http://tv.zonanime.my.id/vidio/horee.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_horee_big.png" group-title="Kids", Horee
+http://tv.zonanime.my.id/vidio/horee.m3u8?id=horee
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mykids_big.png" group-title="Kids", My Kidz
 http://210.210.155.35:80/uq2663/h/h191/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mykids_big.png" group-title="Kids", My Kidz
@@ -633,21 +633,22 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 ***
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_big.png" group-title="Music", Citra Dangdut
-http://tvn.x10.mx/vidio/master-11.m3u8
+http://tv.zonanime.my.id/vidio/citradangdut.m3u8
+http://tvn.x10.mx/1/master-5.m3u8?id=citradangdut
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ3PHnK8/clubbtv.png" group-title="Music", Clubbing TV
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
-##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_ikonser_big.png" group-title="Music", iKonser
-https://nonton.site:8443/live/balubaid2/Erlangga2/29594.m3u8
-http://axcestv.vip:8080/FreeSG/axcestv/629
-##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_big.png" group-title="Music", MTV Live
-https://nonton.site:8443/live/balubaid2/Erlangga2/9110.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_ikonser_big.png" group-title="Music", iKonser
+https://nonton.site:8443/live/indoneuetyhbsrt/bxbdrtyhevxh/29594.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjZsP7Mc/mtvbiggestpop.jpg" group-title="Music", MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_big.png" group-title="Music", MTV Live
+https://nonton.site:8443/live/indoneuetyhbsrt/bxbdrtyhevxh/9110.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvJjTJCQ/mtvblocparty.png" group-title="Music", MTV Block party
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59D1TvyY/musicavidio.png" group-title="Music", Musica
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6869efe03b7fbef3b001dc15804bc826446503011668def857b1c03bafabba51
-##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_prambors_big1.png" group-title="Music", Prambors TV
-https://nonton.site:8443/live/balubaid2/Erlangga2/1157.m3u8
-http://axcestv.vip:8080/FreeSG/axcestv/628
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_prambors_big1.png" group-title="Music", Prambors TV
+https://nonton.site:8443/live/indoneuetyhbsrt/bxbdrtyhevxh/1157.m3u8
 
 ***
 
@@ -660,14 +661,17 @@ https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_mid
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ruangtrampil_big.png" group-title="Lifestyle", Ruang Trampil
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=979d472a84804b9f647bc185a877a8b5268ef7e5a44f541a7cbde7626ef57566
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useephoto_big.png" group-title="Lifestyle", Usee Photo
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=ca46c1b9512a7a8315fa3c5a946e8265268ef7e5a44f541a7cbde7626ef57566
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useeprime_big1.png" group-title="Lifestyle", Usee Prime
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=fbd7939d674997cdb4692d34de8633c4268ef7e5a44f541a7cbde7626ef57566
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 
 ***
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKnpJqx/Alive2020.jpg" group-title="Box Office", Alive
 https://privatemaster.xyz/cdn/stream/master/fbGY8fEpTBQr5VDd8yf3hX1bqLZUApt4OgF3WD60bnmVCPWjGwAZDh667LkYoSxOzVmElhRqtqkTLaQ7KGiNkRojw1JFhqZHnbm1IjOmOyKhfwmRs6jjuDK1ZMTrWjZx/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRQh9nms/Bullettrain.jpg" group-title="Box Office", Bullet Train
+https://www.googleapis.com/drive/v3/files/1ux-SfffHQFY9CxQ2AKDbhWtAOcOp38S8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gkyJKnJ9/dune2021.jpg" group-title="Box Office", Dune
 https://privatemaster.xyz/cdn/stream/master/UDT8OSKfrBhZi9xFDo4sN8U4kb1WF3PARwRua9BaGxE6n7wZgg2DjJCqKPTviGh8o2u3RnyNhcJZ339ggdKq8cuGgGRaoFm2Wnb0filc59esUU3AJLxxOFrIy5hv5NWC/play.m3u8
@@ -681,11 +685,14 @@ https://privatemaster.xyz/cdn/stream/master/ELGMKrdDWT6E5UfffxixaDxDvBhWmhNx9OTx
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vBJgdDxk/Eternals.jpg" group-title="Box Office", Eternals
 https://privatemaster.xyz/cdn/stream/master/SDTq7K2w3RCx2AwZzYAPXG71ZSxqdL1dcGbA1aj3H5a2txNYcCqxkkNkcNSNg9C3wjj3QJnAn6cxJaVYXlUnMHQSMF2PimExTt9ZKhMZ5vGPd13wHZluDOG7aMVWX1vx/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZR8NkpZv/Jurassicworlddominion.jpg" group-title="Box Office", Jurassic World Dominion
-https://privatemaster.xyz/cdn/stream/master/YtivqZAmxSHR8bTS1qNLUNcg1Ox2IiClVV0Eajpkc8x72EMFCoNx5WBlwgpemk7Bi2xynaIFQ0Rx0wlyRI3yl1ETXAvBOiDSYC1NB9GvIKPrZrnDIze5dkB1EExkLLqJ/play.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TwSTQ0Hk/Fantasticbeasts-2022.jpg" group-title="Box Office", Fantastic Beasts: The Secrets of Dumbledore
 https://privatemaster.xyz/cdn/stream/master/WXPr4A2iujUIshzWoNNc13GdTUa1Mw5NvYMo2HhF9sW7uNOtpZeY4f58mBbsAXTbAGB4O2flipz4rGEcFX7yYBZgWJuiOlMHsjtCrnuNZ3VvNlLSQsa2qn2AxlFGFHnE/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2y2ZH5zx/Freeguy.jpg" group-title="Box Office", Free Guy
+https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/Eda8R-jQY3BDkMlXhSobjP0BzxS_wYUPbOrGeSE8Zj76UA?e=reFCcA
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZR8NkpZv/Jurassicworlddominion.jpg" group-title="Box Office", Jurassic World Dominion
+https://privatemaster.xyz/cdn/stream/master/YtivqZAmxSHR8bTS1qNLUNcg1Ox2IiClVV0Eajpkc8x72EMFCoNx5WBlwgpemk7Bi2xynaIFQ0Rx0wlyRI3yl1ETXAvBOiDSYC1NB9GvIKPrZrnDIze5dkB1EExkLLqJ/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Fr26HhB/Kingdom.jpg" group-title="Box Office", Kingdom: Ashin of the North
 https://privatemaster.xyz/cdn/stream/master/RYhHZaxUfqG5UoALu9W8MK6Sv39rxAKtHFEb7TC9rTXUVpeM8FNGJVKEa01NJR8TqUla7UTxUAFCLgKebbTsfgUh3298e3Z8LL0tqQmgdYQKl3uxOxok66hVgd7XYFfu/play.m3u8
@@ -696,11 +703,11 @@ https://privatemaster.xyz/cdn/stream/master/VBpwCYoNcUXQEdToGLhtaWPAOhK1tUpoKBIY
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2JvVyng/Mortalkombat.jpg" group-title="Box Office", Mortal Kombat 2021
 https://privatemaster.xyz/cdn/stream/master/wEgteUjyt16Wfn1GHY6rR7GpIHvET0WLvvF7FDg3JsUOHuyF0DT9tuoGZ4mkJmc3YoL0bSxLluNuWf3cgWk3mV5shnzeKDyLsWX3fzsG5wmRzahkVwEHpLQxlm54Ver5/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6xyS6f6/Rednotice.jpg" group-title="Box Office", Red Notice
-https://privatemaster.xyz/cdn/stream/master/EIp81Btg1bu0LI7YMzPTfGqclXsM5b2jnVknmuJKh6VMlFO9Mz9QAUZotuj9zase2ISIwJokYQN7qVZBWgDTTGq0gNCySwDmiSkEBbBpghDaxJYJ9KePlNwZ2rvBQ1cO/play.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCyBGzR2/jb007.jpg" group-title="Box Office", No Time To Die
 https://privatemaster.xyz/cdn/stream/master/XAAXFDAflYGNIVD52AfPKFip2TCdjMoMDjnzDqdqQz5mQx3YMpihKJoMxyT02n5BpQMJ3LzHpm7nlyw1RsnDZafqzxkYE42L8SsPwq23EFXSFDYfnDqyLWqklMWQr46h/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6xyS6f6/Rednotice.jpg" group-title="Box Office", Red Notice
+https://privatemaster.xyz/cdn/stream/master/EIp81Btg1bu0LI7YMzPTfGqclXsM5b2jnVknmuJKh6VMlFO9Mz9QAUZotuj9zase2ISIwJokYQN7qVZBWgDTTGq0gNCySwDmiSkEBbBpghDaxJYJ9KePlNwZ2rvBQ1cO/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4NSWQtrH/Topgunmaverick-2022.jpg" group-title="Box Office", Top Gun: Maverick
 https://privatemaster.xyz/cdn/stream/master/VTxr0wt8mMMrsuIbXm6vDdagLTvT2ttGmrRYDRYqaiTQhHyQmUoesmAHSKTzB5PGmpVrGllrGohckg6smSZdK1OY8dvS8Ie4W7NOYADaLilV3L1QjQCLmPk0UfkVTzVg/play.m3u8
