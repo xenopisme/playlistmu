@@ -814,21 +814,19 @@ http://180.211.90.134:8000/play/a09l
 
 ***
 
-#EXTINF:-1 tvg-id="" tvg-name="TV1" tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" group-title="Malaysia", TV1
+#EXTINF:-1 tvg-id="" tvg-name="TV3" tvg-logo="https://i.postimg.cc/nzbzGGv6/Beritartm.png" group-title="Malaysia", Berita RTM
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Beritartm.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV1" tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" group-title="Malaysia", TV1
 http://51.79.82.208:16001
-#EXTINF:-1 tvg-id="" tvg-name="TV2" tvg-logo="https://i.ibb.co/jk4xT5Y/TV2.png" group-title="Malaysia", TV2
+##EXTINF:-1 tvg-id="" tvg-name="TV2" tvg-logo="https://i.ibb.co/jk4xT5Y/TV2.png" group-title="Malaysia", TV2
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV2" tvg-logo="https://i.ibb.co/jk4xT5Y/TV2.png" group-title="Malaysia", TV2
 http://51.79.82.208:16002
 #EXTINF:-1 tvg-id="" tvg-name="TV3" tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png" group-title="Malaysia", TV3
 http://51.79.82.208:16003
-#EXTINF:-1 tvg-id="" tvg-name="TV3" tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png" group-title="Malaysia", TV3
-https://51.79.82.208:16003
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Ssqm5mj/okey.png" group-title="Malaysia", Okey
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Ssqm5mj/okey.png" group-title="Malaysia", Astro Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/9TF3GH2/oasis.png" group-title="Malaysia", Oasis
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/9TF3GH2/oasis.png" group-title="Malaysia", Astro Oasis
 http://51.79.82.208:16009
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/71gHj4x/prima.png" group-title="Malaysia", Astro Prima
 http://51.79.82.208:16008
@@ -836,10 +834,53 @@ http://51.79.82.208:16008
 http://51.79.82.208:16007
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="Malaysia", Astro Warna
 http://51.79.82.208:16010
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fRRQgbjM/astroaec.png" group-title="Malaysia", Astro AEC
+http://51.79.82.208:16021
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3xnPNKKS/astrorna.png" group-title="Malaysia", Astro Arena
+http://51.79.82.208:16058
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="Malaysia", Astro Supersport 3
+http://51.79.82.208:16062
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Malaysia", beIN Sports 1
 http://51.79.82.208:16064
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://images.useetv.com/logo_bein3_big1.png" group-title="Malaysia", beIN Sports 3
 http://51.79.82.208:16065
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://images.useetv.com/logo_golf_big1.png" group-title="Malaysia", BBC Golf
+http://51.79.82.208:16059
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9QLhYGNf/espn.png" group-title="Malaysia", ESPN
+http://51.79.82.208:16417
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9QLhYGNf/espn.png" group-title="Malaysia", Sportv 2
+http://51.79.82.208:16456
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9QLhYGNf/espn.png" group-title="Malaysia", Sportv 3
+http://51.79.82.208:16463
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/B6Kmd4Pj/Astroboxoffice.png" group-title="Malaysia", Astro Box Office
+http://51.79.82.208:16013
+
+***
+
+#EXTINF:-1 group-title="Ujicoba" tvg-logo="",[MY]ANIMAX
+http://50.7.220.74:8278/Animax/playlist.m3u8?tid=MD5D2874027628740276&ct=19225&tsum=7a70d49085de7ded56bc64fa8d46c506
+#EXTINF:-1 group-title="Ujicoba" tvg-logo="",[MY]ARENA 2
+http://50.7.220.74:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&tsum=b2683db779f0d06341b243e292480482
+#EXTINF:-1 group-title="Ujicoba" tvg-logo="",[MY]ARENA
+http://50.7.220.74:8278/Arena/playlist.m3u8?tid=MA4A2365848123658481&ct=19225&tsum=06e68996e319c7afbc368a66c862fe90
+#EXTINF:-1 group-title="Ujicoba" tvg-logo="",[MY]AXN
+http://50.7.220.74:8278/Axn/playlist.m3u8?tid=MDAD8374621983746219&ct=19225&tsum=60883af30a38d2c40db4c04f8651ffaa
+#EXTINF:-1 group-title="Ujicoba" tvg-logo="",[MY]Animal Planet
+http://50.7.220.74:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
+#EXTINF:-1 group-title="Ujicoba" tvg-logo="",[MY]Awani
+http://50.7.220.74:8278/Awani/playlist.m3u8?tid=MB3B5555835155558351&ct=19225&tsum=148341f2ac3dfc57fd8bb8b2f6e4d190
+#EXTINF:-1 group-title="Ujicoba" tvg-logo="",[MY]BBC 1
+http://50.7.220.74:8278/bbc1_antik/playlist.m3u8?tid=MA4A9532597395325973&ct=19230&tsum=730628fd737b265598d82053feb30902
+
+#EXTINF:-1 group-title="Ujicoba",HBO
+http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
+#EXTINF:-1 group-title="Ujicoba",jettv_japan
+http://198.16.64.10:8278/jettv_japan/playlist.m3u8?tid=MA7A4202687942026879&ct=19225&tsum=e84bc4851b9d6f6a18282c1efcb6ed1d
+#EXTINF:-1 group-title="Ujicoba",TLC
+http://198.16.64.10:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
+#EXTINF:-1 group-title="Ujicoba",TVBS
+http://198.16.64.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
+
 
 ***
 
