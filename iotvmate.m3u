@@ -626,21 +626,21 @@ https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng634&channel=useespo
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj
-#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-1.png" group-title="Sports",unifi Sports 1
+#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://i.postimg.cc/rp3T3gPG/Unifisports1.png" group-title="Sports",unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj
-#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-2.png" group-title="Sports",unifi Sports 2
+#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://i.postimg.cc/JzSdWgRh/Unifisports2.png" group-title="Sports",unifi Sports 2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JzSdWgRh/Unifisports2.png" group-title="Sports",Unifi Sport 2
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3xnPNKKS/astrorna.png" group-title="Sports",Astro Arena HD
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142710.m3u8
+http://51.79.82.208:16007
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1XTPsF8P/arena2.png" group-title="Sports", Astro Arena 2 HD
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142711.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1XTPsF8P/arena2.png" group-title="Sports", Astro Arena HD
+http://50.7.220.74:8278/Arena/playlist.m3u8?tid=MA4A2365848123658481&ct=19225&tsum=06e68996e319c7afbc368a66c862fe90
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
@@ -1292,8 +1292,16 @@ http://51.79.82.208:16010
 http://51.79.82.208:16021
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3xnPNKKS/astrorna.png" group-title="Malaysia", Astro Arena
 http://51.79.82.208:16058
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="Malaysia", Astro Supersport 
+http://51.79.82.208:16060
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="Malaysia", Astro Supersport 2
+http://51.79.82.208:16061
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="Malaysia", Astro Supersport 3
 http://51.79.82.208:16062
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="Malaysia", Astro Supersport 3
+http://51.79.82.208:16063
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="Malaysia", Astro Supersport 4
+http://206.221.176.47:64035
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Malaysia", beIN Sports 1
 http://51.79.82.208:16064
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://images.useetv.com/logo_bein3_big1.png" group-title="Malaysia", beIN Sports 3
