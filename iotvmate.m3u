@@ -1295,6 +1295,8 @@ http://51.79.82.208:16013
 http://51.79.82.208:16064
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://images.useetv.com/logo_bein3_big1.png" group-title="Malaysia", beIN Sports 3
 http://51.79.82.208:16065
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/90vdCwqy/Booblack.png" group-title="Malaysia", BOO
+http://23.237.10.66:16420
 
 ***
 
@@ -1313,8 +1315,15 @@ https://privatemaster.xyz/cdn/stream/master/kagAR9s3EQWJvmCjV75p4PlfiwGHdBnrzY8M
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0NcjjsxG/Emilythecriminal2022.jpg" group-title="Box Office", Emily the Criminal
 https://privatemaster.xyz/cdn/stream/master/ELGMKrdDWT6E5UfffxixaDxDvBhWmhNx9OTxWuZtxEKbGoENsEgEmlz04boKxfa0gJo1tIHx8unfbV1kxPNEf49LIgr3BAgAiqZK4RR3Tnpgv6FYYEP3kBZEOhowpJPc/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/44SQsrNY/Enolaholmes2022.jpg" group-title="Box Office", Enola Holmes 2
+https://privatemaster.xyz/cdn/stream/master/X9ecGL7bjHhFb3O6ri5hrfAqsbNQygag0Id9rn09yky4WGOHtpUImafOG2VQMjXR3fgpPYTqsMKmlM3sMcrxxo3ec2vNWTPnOAIWXdl7d8juV5VVPdJB83KFcaKxUfPR/play.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vBJgdDxk/Eternals.jpg" group-title="Box Office", Eternals
 https://privatemaster.xyz/cdn/stream/master/SDTq7K2w3RCx2AwZzYAPXG71ZSxqdL1dcGbA1aj3H5a2txNYcCqxkkNkcNSNg9C3wjj3QJnAn6cxJaVYXlUnMHQSMF2PimExTt9ZKhMZ5vGPd13wHZluDOG7aMVWX1vx/play.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/4xMVVj0Y/finch.jpg" group-title="Box Office", Finch
+#EXTVLCOPT:http-referrer=https://stream.xpeer.xyz/new1.php?id=c1c22007acdf163489eb931ec642ebea2dbf3374
+https://stream.xpeer.xyz/xxx/finch-2021/1/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TwSTQ0Hk/Fantasticbeasts-2022.jpg" group-title="Box Office", Fantastic Beasts: The Secrets of Dumbledore
 https://privatemaster.xyz/cdn/stream/master/WXPr4A2iujUIshzWoNNc13GdTUa1Mw5NvYMo2HhF9sW7uNOtpZeY4f58mBbsAXTbAGB4O2flipz4rGEcFX7yYBZgWJuiOlMHsjtCrnuNZ3VvNlLSQsa2qn2AxlFGFHnE/play.m3u8
@@ -1337,8 +1346,20 @@ https://privatemaster.xyz/cdn/stream/master/wEgteUjyt16Wfn1GHY6rR7GpIHvET0WLvvF7
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCyBGzR2/jb007.jpg" group-title="Box Office", No Time To Die
 https://privatemaster.xyz/cdn/stream/master/XAAXFDAflYGNIVD52AfPKFip2TCdjMoMDjnzDqdqQz5mQx3YMpihKJoMxyT02n5BpQMJ3LzHpm7nlyw1RsnDZafqzxkYE42L8SsPwq23EFXSFDYfnDqyLWqklMWQr46h/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fJMPHDV/Prey2022.jpg" group-title="Box Office", Prey
+https://privatemaster.xyz/cdn/stream/master/2G2fLtWmceDQ7VqpOhFZfWkhOn3sUnbi5tOGxerQgjAcK8xTTMI7creXnMkLz2Ajkr2ppObRdTvT7n95a0uy1X81qZfRbLeo4EUzFCgir4edif4yPeHPAe0gMXroGnye/play.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6xyS6f6/Rednotice.jpg" group-title="Box Office", Red Notice
 https://privatemaster.xyz/cdn/stream/master/EIp81Btg1bu0LI7YMzPTfGqclXsM5b2jnVknmuJKh6VMlFO9Mz9QAUZotuj9zase2ISIwJokYQN7qVZBWgDTTGq0gNCySwDmiSkEBbBpghDaxJYJ9KePlNwZ2rvBQ1cO/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NGRCxHXG/Sonicthehedgehog2.jpg" group-title="Box Office", Sonic The Hedgehog 2
+https://privatemaster.xyz/cdn/stream/master/ts4suzoTWF7nL0zeNhd8mCODnjiptqcPmnbf0sKxlnIgqzMszpGPtgqVtgsEaOlPPmKFmVDMNBX9JuWGtpVXUESTFWTtHvKPJLWuxF9ZEzUKvUzIomg0Y9kKZSL8zGsH/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d05ngBwf/Texaschainsawmassacre.jpg" group-title="Box Office", Texas Chainsaw Massacre
+https://www.googleapis.com/drive/v3/files/1CBsg6F7ULpFXHgQljmS22hLALRLFbhfc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26P5cQWR/Theadamproject.jpg" group-title="Box Office", The Adam Project
+https://www.googleapis.com/drive/v3/files/1-GLv8PKNSlVz2oajbyuVsBLuXoZ8bvK8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4NSWQtrH/Topgunmaverick-2022.jpg" group-title="Box Office", Top Gun: Maverick
 https://privatemaster.xyz/cdn/stream/master/VTxr0wt8mMMrsuIbXm6vDdagLTvT2ttGmrRYDRYqaiTQhHyQmUoesmAHSKTzB5PGmpVrGllrGohckg6smSZdK1OY8dvS8Ie4W7NOYADaLilV3L1QjQCLmPk0UfkVTzVg/play.m3u8
