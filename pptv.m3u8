@@ -82,6 +82,7 @@ https://k.ksa.my.id/ksa.m3u8?a=7d4935a1e34ba86c3b21&b=152653b1ef3d0f0ce716&c=bc5
 http://usee.yurend.web.id/usee/ANTV.m3u8
 http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_big1.png" group-title="TV Lokal", INDOSIAR
+http://iptvid.my.id/hmm/indoseear.m3u8
 http://tvn.x10.mx/1/master.m3u8
 http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_big1.png" group-title="TV Lokal", INDOSIAR
@@ -274,7 +275,8 @@ http://usee.yurend.web.id/usee/FIGHTSPORT.m3u8
 http://live-birutv.com/play/horisonsport.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/850wLhtb/motorvisiontv.png" group-title="Sports", Motorvision Tv
 http://210.210.155.35:80/uq2663/h/h09/01.m3u8
-##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nba_big1.png" group-title="Sports", NBA Tv
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nba_big1.png" group-title="Sports", NBA Tv
+http://iptvid.my.id/hmm/nba.m3u8
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=nba&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65GDxdby/onegolf.png" group-title="Sports", One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
@@ -362,8 +364,10 @@ https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=ga
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_galaxy_big.png" group-title="Movies", Galaxy
 https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channel=galaxy&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_galaxypremium_big.png" group-title="Movies", Galaxy Premium
+http://iptvid.my.id/hmm/glxprem.m3u8
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=galaxypremium&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_galaxypremium_big.png" group-title="Movies", Galaxy Premium
+http://iptvid.my.id/hmm/glxprem.m3u8?id=galaxypremium
 https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channel=galaxypremium&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_hits_big.png" group-title="Movies", HITS
 http://210.210.155.35:80/dr9445/h/h37/index.m3u8
@@ -425,10 +429,11 @@ http://210.210.155.35/dr9445/h/h21/01.m3u8
 http://210.210.155.35:80/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_big.png" group-title="Movies", Thrill
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
-##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_warner_big.png" group-title="Movies", Warner
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_warner_big.png" group-title="Movies", Warner
+http://iptvid.my.id/hmm/wrnr.m3u8
 http://live-birutv.com/play/wrnr.m3u8
-##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_warner_big.png" group-title="Movies", Warner
-http://live-birutv.com/play/wrnr.m3u8?id=warner
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_warner_big.png" group-title="Movies", Warner
+http://iptvid.my.id/hmm/wrnr.m3u8?id=warner
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_zbioskop_big1.png" group-title="Movies", Zee Bioskop
 http://210.210.155.35:80/qwr9ew/s/s32/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_zbioskop_big1.png" group-title="Movies", Zee Bioskop
@@ -719,8 +724,8 @@ https://miraeindaeyo.masuk.id/joss/masuk.m3u8?token2=koceng634&channel=tawaftv
 
 ##EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_big.png" group-title="Music", Citra Dangdut
 http://tv.zonanime.my.id/vidio/citradangdut.m3u8
-##EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_big.png" group-title="Music", Citra Dangdut
-http://live-birutv.com/play/cdangdut.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_big.png" group-title="Music", Citra Dangdut
+http://iptvid.my.id/hmm/cdangdut.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ3PHnK8/clubbtv.png" group-title="Music", Clubbing TV
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 ##EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ3PHnK8/clubbtv.png" group-title="Music", Clubbing TV
@@ -737,8 +742,8 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8?id=mtvpop
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_big.png" group-title="Music", MTV Live
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=mtvlive&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
-##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_big.png" group-title="Music", MTV Live
-http://live-birutv.com/play/mtv.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_big.png" group-title="Music", MTV Live
+http://iptvid.my.id/hmm/mtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvJjTJCQ/mtvblocparty.png" group-title="Music", MTV Block party
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 ##EXTINF:-1 tvg-logo="https://i.postimg.cc/BvJjTJCQ/mtvblocparty.png" group-title="Music", MTV Block party
@@ -750,8 +755,8 @@ http://usee.yurend.web.id/usee/MUSIKINDO.m3u8
 ##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_musikindo_big.png" group-title="Music", Musik Indonesia
 http://live-birutv.com/play/musikindo.m3u8?id=musikindonesia
 
-##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_prambors_big1.png" group-title="Music", Prambors TV
-http://180.211.90.134:8000/play/a07b
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_prambors_big1.png" group-title="Music", Prambors TV
+http://iptvid.my.id/hmm/prambors.m3u8
 ##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_prambors_big1.png" group-title="Music", Prambors TV
 http://live-birutv.com/play/prambors.m3u8
 
@@ -915,10 +920,25 @@ http://51.79.82.208:16461
 #EXTVLCOPT:http-referer=https://olevod.tv/
 https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
-#EXTVLCOPT:http-referer=https://olevod.tv/
-https://live.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 9
+https://is.gd/BziVE9
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 10
-https://m3u-editor.com/serve/560c90a0-6d29-11ed-a5b5-771238a12f30/699199276
+http://175.107.244.52:4457/play/a070/index.m3u8
+http://146.19.16.211:8018/play/a05c
+https://murthyneeraj231.s3.amazonaws.com/worldcup_1080.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 11
+https://v-ca.mybtv.net/live/140/768x432.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 12
+http://190.83.119.67:8000/play/a0o9
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 13
+http://190.83.119.67:8000/play/a0s2
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 14
+http://138.117.4.70:8075/channel10/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 15
+http://185.89.156.111:8000/play/a022?
