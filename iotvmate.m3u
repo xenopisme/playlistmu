@@ -1268,8 +1268,8 @@ http://51.79.82.208:16006
 http://51.79.82.208:16007
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/71gHj4x/prima.png" group-title="Malaysia", Astro Prima
 http://51.79.82.208:16008
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Ssqm5mj/okey.png" group-title="Malaysia", Okey
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Ssqm5mj/okey.png" group-title="Malaysia", Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/9TF3GH2/oasis.png" group-title="Malaysia", Astro Oasis
 http://51.79.82.208:16009
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="Malaysia", Astro Warna
@@ -1410,15 +1410,13 @@ http://51.79.82.208:16461
 https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 9
-https://is.gd/BziVE9
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 10
-http://175.107.244.52:4457/play/a070/index.m3u8
-http://146.19.16.211:8018/play/a05c
-https://murthyneeraj231.s3.amazonaws.com/worldcup_1080.m3u8
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 11
-https://v-ca.mybtv.net/live/140/768x432.m3u8
+https://59537faa0729a.streamlock.net/canal6mdp/canal6mdp/chunklist_w1042600595.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 12
 http://190.83.119.67:8000/play/a0o9
