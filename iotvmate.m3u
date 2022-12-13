@@ -85,11 +85,11 @@ https://anevia115.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 http://210.210.155.35/qwr9ew/s/s105/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png" group-title="TV Lokal", Indosiar
-https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5ffddd6e9165aa1117
 http://210.210.155.35/qwr9ew/s/s04/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png" group-title="TV Lokal", Indosiar
-https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=indosiar&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
+https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5ffddd6e9165aa1117
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png" group-title="TV Lokal", Indosiar
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=indosiar&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png" group-title="TV Lokal", CNN INDONESIA
@@ -129,6 +129,7 @@ http://210.210.155.35:80/qwr9ew/s/s03/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png" group-title="TV Lokal", SCTV
 https://k.ksa.my.id/ksa.m3u8?a=c38a7b272f9c6d07b2c3&b=769e18d2eae69a34056d&c=606f050f137c26cc67bb
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png" group-title="TV Lokal", SCTV
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=indosiar&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 http://210.210.155.35/qwr9ew/s/s03/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -554,9 +555,9 @@ http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 http://198.16.64.10:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/63DtbMVb/Elevensports.png" group-title="Sports", ELEVEN2
 http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9QLhYGNf/espn.png" group-title="Sports", ESPN
+##EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9QLhYGNf/espn.png" group-title="Sports", ESPN
 http://51.79.82.208:16417
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://images.useetv.com/logo_golf_big1.png" group-title="Sports", Golf Channel
+##EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://images.useetv.com/logo_golf_big1.png" group-title="Sports", Golf Channel
 http://51.79.82.208:16059
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65GDxdby/onegolf.png" group-title="Sports", One Golf
@@ -617,17 +618,20 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3xnPNKKS/astrorna.png" group-title="Sports", Astro Arena HD
+http://198.16.64.10:8278/Arena/playlist.m3u8?tid=MA4A2365848123658481&ct=19225&tsum=06e68996e319c7afbc368a66c862fe90
 http://51.79.82.208:16007
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GmR2zWDF/Premierelogo.png" group-title="Sports", Premiere Sport
+##EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GmR2zWDF/Premierelogo.png" group-title="Sports", Premiere Sport
 http://51.79.82.208:16450
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GmR2zWDF/Premierelogo.png" group-title="Sports", Premiere Sport
+##EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GmR2zWDF/Premierelogo.png" group-title="Sports", Premiere Sport
 http://51.79.82.208:16455
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GmR2zWDF/Premierelogo.png" group-title="Sports", Premiere Sport
+##EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GmR2zWDF/Premierelogo.png" group-title="Sports", Premiere Sport
 http://51.79.82.208:16456
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/J4bv3vMC/Sportv1logo.png" group-title="Sports", Sportv
+http://23.237.10.66:16180
 http://51.79.82.208:16463
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/J4bv3vMC/Sportv1logo.png" group-title="Sports", Sportv
+http://23.237.10.66:16180?
 http://51.79.82.208:16464
 
 ***
@@ -1249,52 +1253,51 @@ http://iptvid.my.id/hmm/prambors.m3u8
 
 ***
 
-#EXTINF:-1 tvg-id="" tvg-name="TV3" tvg-logo="https://i.postimg.cc/nzbzGGv6/Beritartm.png" group-title="Malaysia", Berita RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="TV3" tvg-logo="https://i.postimg.cc/brCsxq6S/sukanrtm.png" group-title="Malaysia", Sukan RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="TV1" tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" group-title="Malaysia", TV1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+##EXTINF:-1 tvg-id="" tvg-name="TV3" tvg-logo="https://i.postimg.cc/nzbzGGv6/Beritartm.png" group-title="Malaysia", Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+##EXTINF:-1 tvg-id="" tvg-name="TV1" tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" group-title="Malaysia", TV1
 http://51.79.82.208:16001
-#EXTINF:-1 tvg-id="" tvg-name="TV2" tvg-logo="https://i.ibb.co/jk4xT5Y/TV2.png" group-title="Malaysia", TV2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+##EXTINF:-1 tvg-id="" tvg-name="TV2" tvg-logo="https://i.ibb.co/jk4xT5Y/TV2.png" group-title="Malaysia", TV2
 http://51.79.82.208:16002
 #EXTINF:-1 tvg-id="" tvg-name="TV3" tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png" group-title="Malaysia", TV3
-http://51.81.208.129:35461/80203091402/213445/5073
+https://stream.zeehanzgadget.com/tv3
 http://51.79.82.208:16003
-#EXTINF:-1 tvg-id="" tvg-name="TV3" tvg-logo="https://i.postimg.cc/Bnwkdkz5/Tv6.png" group-title="Malaysia", TV6
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="TV3" tvg-logo="https://i.ibb.co/BKdBNyc/8tv.png" group-title="Malaysia", TV8
+http://198.16.64.10:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
 http://51.79.82.208:16005
-#EXTINF:-1 tvg-id="" tvg-name="TV3" tvg-logo="https://i.ibb.co/PrdzrVH/tv9.png" group-title="Malaysia", TV9
+##EXTINF:-1 tvg-id="" tvg-name="TV3" tvg-logo="https://i.ibb.co/PrdzrVH/tv9.png" group-title="Malaysia", TV9
 http://51.79.82.208:16006
+#EXTINF:-1 tvg-id="" tvg-name="TV3" tvg-logo="https://i.postimg.cc/CKNRQKq8/Tvalhijrah.png" group-title="Malaysia", Al Hijrah
+http://198.16.64.10:8278/Alhijrah/playlist.m3u8?tid=m70290ab09fb91755596&ct=18008&tsum=1ce036f87781c57e1c2dcfc789ea5dc9
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="Malaysia", Astro Ria
+http://198.16.64.10:8278/Ria/playlist.m3u8?tid=m02000000000016577258&ct=17958&tsum=538739a0520a004cfcf115fef17fe8cc
 http://51.79.82.208:16007
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/71gHj4x/prima.png" group-title="Malaysia", Astro Prima
+http://198.16.64.10:8278/Prima/playlist.m3u8?tid=m02000000000016192913&ct=17958&tsum=7c7f40ea3d204e5a683354afd932a406
 http://51.79.82.208:16008
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Ssqm5mj/okey.png" group-title="Malaysia", Okey
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Ssqm5mj/okey.png" group-title="Malaysia", Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/9TF3GH2/oasis.png" group-title="Malaysia", Astro Oasis
+https://stream.zeehanzgadget.com/oasis
 http://51.79.82.208:16009
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="Malaysia", Astro Warna
 http://51.81.208.129:35461/80203091402/213445/5075
 http://51.79.82.208:16010
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ZRP61MgK/astroceria.png" group-title="Malaysia", Astro Ceria
+http://198.16.64.10:8278/Ceria/playlist.m3u8?tid=mfabd35f3f60610763675&ct=17913&tsum=83045199eb5a761e7e547c2ecd825d21
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3xnPNKKS/astrorna.png" group-title="Malaysia", Astro Arena HD
+http://198.16.64.10:8278/Arena/playlist.m3u8?tid=MA4A2365848123658481&ct=19225&tsum=06e68996e319c7afbc368a66c862fe90
 http://51.79.82.208:16058
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="Malaysia", Astro Supersport 3
+#EXTINF:-1 tvg-logo="hhttps://i.postimg.cc/1XTPsF8P/arena2.png" group-title="Malaysia", Astro Arena 2 HD
+http://198.16.64.10:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&tsum=b2683db779f0d06341b243e292480482
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="Malaysia", Astro Supersport 3
 http://51.79.82.208:16062
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpG9pRP9/skysportsarena.png" group-title="Malaysia", Skysport Arena
 http://198.16.64.10:8278/tiankongarena/playlist.m3u8?tid=MEFE3166774631667746&ct=19225&tsum=c372e0b47b96d4e0afa57a22e1a70f8f
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Malaysia", beIN Sports 1
-http://51.79.82.208:16064
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://images.useetv.com/logo_bein3_big1.png" group-title="Malaysia", beIN Sports 3
-http://51.79.82.208:16065
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_big.png" group-title="Malaysia", Celestial Movies
-http://51.79.82.208:16024
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/B6Kmd4Pj/Astroboxoffice.png" group-title="Malaysia", Astro Box Office
-http://51.79.82.208:16013
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/90vdCwqy/Booblack.png" group-title="Malaysia", BOO
 http://23.237.10.66:16420
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_big.png" group-title="Malaysia", Celestial Movies
+http://51.79.82.208:16024
 
 ***
 
@@ -1445,12 +1448,12 @@ https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
 http://51.79.82.208:16461
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 14
-http://171.238.181.52:18080/155.m3u8
+http://171.238.181.52:18080/192.m3u8
 http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
 http://219.151.31.35/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 15
-http://171.238.181.52:18080/192.m3u8
+http://171.238.181.52:18080/155.m3u8
 http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/cctv5phd/4000000/mnf.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 16
@@ -1466,36 +1469,44 @@ https://02ip.ru/astroWC2?shareext.ts
 https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 19
+http://51.81.208.129:35461/80203081502/656678/7985
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1049174&extension=ts&play_token=5MVNb8mEjl
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 20
+http://198.16.64.10:8278/bbc1_antik/playlist.m3u8?tid=MF9F5104188751041887&ct=19317&tsum=d9d161255fab7747b92a36b17e6fcf9a
+http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1049174&extension=ts&play_token=5MVNb8mEjl
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1049172&extension=ts&play_token=8bzBXG34rW
 http://217.174.225.146/hls/ch004_720/index.m3u8
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 21
-https://s6.hopslan.com/servus2/tracks-v1a1/mono.m3u8
+http://50.7.220.74:8278/itv1_antik/playlist.m3u8?tid=MD2D6334659563346595&ct=19226&tsum=79815878394f0f1cd30a6f043febfbb8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 22
+https://s6.hopslan.com/servus2/tracks-v1a1/mono.m3u8
 http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_ZDF_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 23
+https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 24
-https://turnthe.gameon.tel/live/telemundo/index.m3u8
+https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 25
 https://playing.whydontyoustreamwme.com/live/telemundo/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 26
+https://turnthe.gameon.tel/live/telemundo/index.m3u8
 http://190.61.102.67:31589/play/a08j/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 27
+http://190.61.102.67:31589/play/a08j/index.m3u8
 http://streamermytvc.com/Bein-Sp-Max-1-LB+ph===---/cache/Bein-Sp-Max-1-LB/master.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 28
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 http://streamermytvc.com/Bein-Sp-Max-2-LB+ph===---/cache/Bein-Sp-Max-2-LB/master.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 29
