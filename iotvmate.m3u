@@ -987,14 +987,21 @@ http://210.210.155.35:80/dr9445/h/h15/01.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueantextreme_ver1.png" group-title="Entertainment", Rock Action
 http://210.210.155.35/dr9445/h/h15/01.m3u8
 
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sgem_big1.png" group-title="Entertainment", Sony GEM
+##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sgem_big1.png" group-title="Entertainment", Sony GEM
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=sgem&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sgem_big1.png" group-title="Entertainment", Sony GEM
+##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sgem_big1.png" group-title="Entertainment", Sony GEM
 https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channel=sgem&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sone_big1.png" group-title="Entertainment", Sony One
-https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=sone&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sone_big1.png" group-title="Entertainment", Sony One
-https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channel=sone&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://images.useetv.com/logo_sone_big1.png" group-title="Entertainment", Sony One
+https://anevia114.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://images.useetv.com/logo_sone_big1.png" group-title="Entertainment", Sony One
+https://liveaneviadev.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1440,36 +1447,44 @@ https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 11
+http://server2idnkawaguchimaedagratis.d76c75e780f1e7f432ab116bea3eaf4fdaa58115.biz.id:2052/muhamadaqilfarhan.m3u8
 https://sbs-live.akamaized.net/hls/live/2002827/channel1/open/master.m3u8
 http://51.79.82.208:16002
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 12
+http://server2engkawaguchimaedagratis.3a6686bd00a1825c0db77438862b8b07961a2854.biz.id:2052/muhamadaqilfarhan.m3u8
 https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8
 http://51.79.82.208:16417
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 13
-https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
+http://nonton.wap.sh/id/009.m3u8
+https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8
 http://51.79.82.208:16461
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 14
+https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8
 http://171.238.181.52:18080/192.m3u8
 http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
 http://219.151.31.35/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 15
+https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 http://171.238.181.52:18080/155.m3u8
 http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/cctv5phd/4000000/mnf.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 16
+http://1.245.74.5:1935/live/tv/.m3u8
 http://171.238.181.52:18080/194.m3u8
 http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 17
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 http://ctgtv.online:8234/t_tv/tracks-v1a1/mono.m3u8?token=promasbd.com
 https://02ip.ru/astroWC1?shareext.ts
-https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 18
+https://webudi.openhd.lol/lb/premium62/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 http://ctgtv.online:8234/g_tv/tracks-v1a1/mono.m3u8?token=promasbd.com
 https://02ip.ru/astroWC2?shareext.ts
 https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
@@ -1506,7 +1521,7 @@ https://node3.olelive.com:6443/live/CCTV5HD_1080/hls.m3u8
 https://playing.whydontyoustreamwme.com/live/telemundo/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 26
-https://cntlnk-main-edge-access.secure.footprint.net:443/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
+https://s6.hopslan.com/servus2/tracks-v1a1/mono.m3u8
 https://node3.olelive.com:6443/live/CCTV5PHD_1080/hls.m3u8
 https://turnthe.gameon.tel/live/telemundo/index.m3u8
 http://190.61.102.67:31589/play/a08j/index.m3u8
@@ -1523,12 +1538,22 @@ http://streamermytvc.com/Bein-Sp-Max-2-LB+ph===---/cache/Bein-Sp-Max-2-LB/master
 http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/21796.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 30
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 https://live.safa.news/live/sport/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 31
-https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+https://webudi.openhd.lol/lb/premium111/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 http://123.254.72.24:1935/tvlive/livestream2/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 32
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418553
 https://s6.hopslan.com/servus2/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 33
+https://webudi.openhd.lol/lb/premium39/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 34
+https://webudi.openhd.lol/lb/premium61/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 35
+https://webudi.openhd.lol/ddy5/premium116/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
