@@ -12,6 +12,7 @@ http://210.210.155.37/qwr9ew/s/s107/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_net_big1.png" group-title="TV Lokal", NET.
 http://210.210.155.35:80/qwr9ew/s/s08/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_net_big1.png" group-title="TV Lokal", NET.
+http://210.210.155.35/uq2663/h/h06/02.m3u8
 http://live-birutv.com/play/net.m3u8
 http://210.210.155.35:80/qwr9ew/s/s08/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_net_big1.png" group-title="TV Lokal", NET.
@@ -82,9 +83,9 @@ https://k.ksa.my.id/ksa.m3u8?a=7d4935a1e34ba86c3b21&b=152653b1ef3d0f0ce716&c=bc5
 http://usee.yurend.web.id/usee/ANTV.m3u8
 http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_big1.png" group-title="TV Lokal", INDOSIAR
+https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5ffddd6e9165aa1117
 http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_big1.png" group-title="TV Lokal", INDOSIAR
-https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5ffddd6e9165aa1117
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_big1.png" group-title="TV Lokal", INDOSIAR
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=indosiar&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
@@ -483,9 +484,9 @@ http://210.210.155.35/uq2663/h/h23/01.m3u8
 http://210.210.155.35:80/dr9445/h/h16/index.m3u8   
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_blueant_big.png" group-title="Entertainment", Rock Ent
 http://210.210.155.35/dr9445/h/h16/01.m3u8                  
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_blueantext_big.png" group-title="Entertainment", Rock Extreme
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueantextreme_ver1.png" group-title="Entertainment", Rock Action
 http://210.210.155.35:80/dr9445/h/h15/index.m3u8  
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_blueantext_big.png" group-title="Entertainment", Rock Extreme
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueantextreme_ver1.png" group-title="Entertainment", Rock Action
 http://210.210.155.35/dr9445/h/h15/01.m3u8                     
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sgem_big1.png" group-title="Entertainment", Sony GEM
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=sgem&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
@@ -980,10 +981,12 @@ http://171.238.181.52:18080/194.m3u8
 http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 17
+http://ctgtv.online:8234/t_tv/tracks-v1a1/mono.m3u8?token=promasbd.com
 https://02ip.ru/astroWC1?shareext.ts
 https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 18
+http://ctgtv.online:8234/g_tv/tracks-v1a1/mono.m3u8?token=promasbd.com
 https://02ip.ru/astroWC2?shareext.ts
 https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
 
@@ -1003,6 +1006,7 @@ https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/in
 http://50.7.220.74:8278/itv1_antik/playlist.m3u8?tid=MD2D6334659563346595&ct=19226&tsum=79815878394f0f1cd30a6f043febfbb8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 22
+http://iptv12k.com:35461/80203091402/213445/13649
 https://s6.hopslan.com/servus2/tracks-v1a1/mono.m3u8
 http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_ZDF_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8
 
@@ -1014,9 +1018,12 @@ http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 25
+https://node3.olelive.com:6443/live/CCTV5HD_1080/hls.m3u8
 https://playing.whydontyoustreamwme.com/live/telemundo/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 26
+https://cntlnk-main-edge-access.secure.footprint.net:443/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
+https://node3.olelive.com:6443/live/CCTV5PHD_1080/hls.m3u8
 https://turnthe.gameon.tel/live/telemundo/index.m3u8
 http://190.61.102.67:31589/play/a08j/index.m3u8
 
@@ -1032,4 +1039,12 @@ http://streamermytvc.com/Bein-Sp-Max-2-LB+ph===---/cache/Bein-Sp-Max-2-LB/master
 http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/21796.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 30
+https://live.safa.news/live/sport/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 31
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 http://123.254.72.24:1935/tvlive/livestream2/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/VLBQ3qMt/Pildun2022.png" group-title="World Cup 2022", Channel 32
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418553
+https://s6.hopslan.com/servus2/tracks-v1a1/mono.m3u8
