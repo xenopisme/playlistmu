@@ -25,6 +25,8 @@ http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 http://usee.yurend.web.id/usee/TRANSTV.m3u8
 http://210.210.155.35:80/qwr9ew/s/s05/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_transtv_big1.png" group-title="TV Lokal", TRANS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/transtv.m3u8
 http://usee.yurend.web.id/usee/TRANSTV.m3u8?
 http://live-birutv.com/play/transtv.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_transtv_big1.png" group-title="TV Lokal", TRANS TV
@@ -32,6 +34,8 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_trans7_big1.png" group-title="TV Lokal", TRANS7
 http://usee.yurend.web.id/usee/TRANS7.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_trans7_big1.png" group-title="TV Lokal", TRANS7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/trans7.m3u8
 http://usee.yurend.web.id/usee/TRANS7.m3u8?
 http://live-birutv.com/play/trans7.m3u8
 http://210.210.155.35/uq2663/h/h11/index.m3u8
@@ -40,6 +44,8 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_big1.png" group-title="TV Lokal", CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_big1.png" group-title="TV Lokal", CNN INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/cnn_id.m3u8
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_big1.png" group-title="TV Lokal", CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
@@ -333,9 +339,11 @@ http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fight_big1.png" group-title="Sports", Fight Sports
 http://210.210.155.37:80/dr9445/h/h05/index.m3u8
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fight_big1.png" group-title="Sports", Fight Sports
+##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fight_big1.png" group-title="Sports", Fight Sports
 http://usee.yurend.web.id/usee/FIGHTSPORT.m3u8
-##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_horizonsport_big.png" group-title="Sports", Horizon Sports
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_horizonsport_big.png" group-title="Sports", Horizon Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/horisonsport.m3u8
 http://live-birutv.com/play/horisonsport.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/850wLhtb/motorvisiontv.png" group-title="Sports", Motorvision Tv
 http://210.210.155.35:80/uq2663/h/h09/01.m3u8
@@ -366,23 +374,23 @@ http://golive.yn.lt/stream/spotv/02.m3u8
 http://usee.yurend.web.id/usee/SPOTV2.m3u8
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng634&channel=spotv2
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useesport_big.png" group-title="Sports", Usee Sport
-http://golive.yn.lt/stream/useesport/01.m3u8?id=useesport
-https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=useesport&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
+http://golive.yn.lt/stream/useesport/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useesport_big.png" group-title="Sports", Usee Sport
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=useesport&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
-http://golive.yn.lt/stream/useesport/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useesports2_big.png" group-title="Sports", Usee Sports 2
-http://golive.yn.lt/stream/useesport/02.m3u8?id=useesports2
-https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=useesports2&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useesports2_big.png" group-title="Sports", Usee Sports 2
-https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=useesports2&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 http://golive.yn.lt/stream/useesport/02.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useesports2_big.png" group-title="Sports", Usee Sports 2
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=useesports2&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 
 ***
 
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_axn_big.png" group-title="Movies", AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/axn.m3u8
 http://50.7.220.74:8278/Axn/playlist.m3u8?tid=MDAD8374621983746219&ct=19225&tsum=60883af30a38d2c40db4c04f8651ffaa
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_axn_big.png" group-title="Movies", AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/axn.m3u8
 http://198.16.64.10:8278/Axn/playlist.m3u8?tid=MDAD8374621983746219&ct=19225&tsum=60883af30a38d2c40db4c04f8651ffaa
 https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channel=axn&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_bioskopindonesia_big1.png" group-title="Movies", Bioskop Indonesia
@@ -392,6 +400,8 @@ https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channe
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_big.png" group-title="Movies", Celestial Movies
 http://210.210.155.35:80/dr9445/h/h14/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_big.png" group-title="Movies", Celestial Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/clstl.m3u8
 http://210.210.155.35/dr9445/h/h14/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j59VBCwy/ccm.png" group-title="Movies", Celestial Classic Movies
 http://210.210.155.35:80/qwr9ew/s/s31/index.m3u8
@@ -406,9 +416,13 @@ http://210.210.155.35/dr9445/h/h04/01.m3u8
 http://tv.zonanime.my.id/vidio/citrabioskop.m3u8
 ##EXTINF:-1 tvg-logo="https://i.postimg.cc/pTDvvX7L/citrabios.png" group-title="Movies", Citra Bioskop
 http://tvn.x10.mx/1/master.m3u8?id=citrabioskop
-##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_citradrama_big.png" group-title="Movies", Citra Drama
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_citradrama_big.png" group-title="Movies", Citra Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/cdrama.m3u8
 http://tv.zonanime.my.id/vidio/citradrama.m3u8
-##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_citradrama_big.png" group-title="Movies", Citra Drama
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_citradrama_big.png" group-title="Movies", Citra Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/cdrama.m3u8?
 http://tvn.x10.mx/1/master-1.m3u8?id=citradrama
 ##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_chinesedrama_big.png" group-title="Movies", Chinese Drama
 http://usee.yurend.web.id/usee/CHINESEDRAMA.m3u8
@@ -422,19 +436,22 @@ https://nonton.site:8443/live/balubaid2/Erlangga2/2156.m3u8?id=cinemax
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
 http://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_flik_big1.png" group-title="Movies", Flik
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/flik.m3u8
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=flik&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_flik_big1.png" group-title="Movies", Flik
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channel=flik&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_galaxy_big.png" group-title="Movies", Galaxy
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=galaxy&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_galaxy_big.png" group-title="Movies", Galaxy
 https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channel=galaxy&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_galaxypremium_big.png" group-title="Movies", Galaxy Premium
-https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=galaxypremium&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://iptvid.my.id/hmm/glxprem.m3u8
-##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_galaxypremium_big.png" group-title="Movies", Galaxy Premium
-https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channel=galaxypremium&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
-http://iptvid.my.id/hmm/glxprem.m3u8?id=galaxypremium
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_galaxypremium_big.png" group-title="Movies", Galaxy Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/glxprem.m3u8?
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_hits_big.png" group-title="Movies", HITS
 http://210.210.155.35:80/dr9445/h/h37/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_hits_big.png" group-title="Movies", HITS
@@ -472,14 +489,18 @@ https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=my
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng634&channel=myfam
 http://210.210.155.35/uq2663/h/h194/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_paramount_big.png" group-title="Movies", Paramount Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/paramount.m3u8
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=paramount&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
-https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng634&channel=paramount
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_paramount_big.png" group-title="Movies", Paramount Channel
 https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channel=paramount&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
-https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=koceng634&channel=paramount
 ##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_starchinesemovies_big.png" group-title="Movies", Star Chinese Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/starcm.m3u8
 http://usee.yurend.web.id/usee/STARCHINESEMOVIES.m3u8
 ##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_starchinesemovies_big.png" group-title="Movies", Star Chinese Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/starcm.m3u8?
 http://usee.yurend.web.id/usee/STARCHINESEMOVIES.m3u8?id=scm
 ##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_starchinesechannel_big.png" group-title="Movies", Star Chinese Channel
 http://usee.yurend.web.id/usee/STARCHINESEMOVIES.m3u8
@@ -488,15 +509,22 @@ http://usee.yurend.web.id/usee/STARCHINESEMOVIES.m3u8?id=scm
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmovies_big.png" group-title="Movies", tvN Movies
 http://210.210.155.35:80/dr9445/h/h21/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmovies_big.png" group-title="Movies", tvN Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/tvnmovie.m3u8
 http://210.210.155.35/dr9445/h/h21/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_big.png" group-title="Movies", Thrill
 http://210.210.155.35:80/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_big.png" group-title="Movies", Thrill
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/thrill.m3u8
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_warner_big.png" group-title="Movies", Warner
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://198.16.64.10:8278/WarnerTV/playlist.m3u8?tid=MADA9911440699114406&ct=19225&tsum=19bde622e34ceabf296cf92a9a1adede
 http://iptvid.my.id/hmm/wrnr.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_warner_big.png" group-title="Movies", Warner
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/wrnr.m3u8?
 http://50.7.220.74:8278/WarnerTV/playlist.m3u8?tid=MADA9911440699114406&ct=19225&tsum=19bde622e34ceabf296cf92a9a1adede
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_zbioskop_big1.png" group-title="Movies", Zee Bioskop
 http://210.210.155.35:80/qwr9ew/s/s32/index.m3u8
@@ -511,10 +539,12 @@ https://miraeindaeyo.masuk.id/joss/masuk.m3u8?token2=koceng634&channel=arirang
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_arirang_big.png" group-title="Entertainment", Arirang
 http://usee.yurend.web.id/usee/ARIRANG.m3u8?id=arirang
 https://miraeindaeyo.masuk.id:443/joss/masuk.m3u8?token2=koceng634&channel=arirang
-##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_afc_big.png" group-title="Entertainment", AFN
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_afc_big.png" group-title="Entertainment", AFN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://iptvid.my.id/hmm/afc.m3u8
 https://livecdn.fptplay.net/hda1/afchd_hls.smil/chunklist.m3u8
-##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_afc_big.png" group-title="Entertainment", AFN
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_afc_big.png" group-title="Entertainment", AFN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://iptvid.my.id/hmm/afc.m3u8?id=afn
 https://livecdn.fptplay.net/hda1/afchd_hls.smil/chunklist.m3u8?id=afn
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_dunialain_big.png" group-title="Entertainment", Dunia Lain
@@ -529,15 +559,19 @@ http://210.210.155.35/uq2663/h/h08/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_kbsworld_big.png" group-title="Entertainment", KBS World
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_kbsworld_big.png" group-title="Entertainment", KBS World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/kbsw.m3u8
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kix_big.png" group-title="Entertainment", Kix
 http://210.210.155.35:80/dr9445/h/h07/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kix_big.png" group-title="Entertainment", Kix
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=kix&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 http://210.210.155.35/dr9445/h/h07/01.m3u8
-##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_lifetime_big.png" group-title="Entertainment", Lifetime
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_lifetime_big.png" group-title="Entertainment", Lifetime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://iptvid.my.id/hmm/lifetime.m3u8
-##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_lifetime_big.png" group-title="Entertainment", Lifetime
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_lifetime_big.png" group-title="Entertainment", Lifetime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://iptvid.my.id/hmm/lifetime.m3u8?id=lifetime
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nhkworld_big.png" group-title="Entertainment", NHK World Japan
 http://210.210.155.35:80/uq2663/h/h23/index.m3u8
@@ -547,34 +581,45 @@ http://210.210.155.35/uq2663/h/h23/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_blueant_big.png" group-title="Entertainment", Rock Ent
 http://210.210.155.35:80/dr9445/h/h16/index.m3u8   
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_blueant_big.png" group-title="Entertainment", Rock Ent
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/rock.m3u8
 http://210.210.155.35/dr9445/h/h16/01.m3u8                  
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueantextreme_ver1.png" group-title="Entertainment", Rock Action
 http://210.210.155.35:80/dr9445/h/h15/index.m3u8  
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueantextreme_ver1.png" group-title="Entertainment", Rock Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/rockext.m3u8
 http://210.210.155.35/dr9445/h/h15/01.m3u8                     
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sgem_small.png" group-title="Entertainment", GEM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://iptvid.my.id/hmm/sgem.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sgem_small.png" group-title="Entertainment", GEM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/sgem.m3u8?
 https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channel=sgem&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sone_small.png" group-title="Entertainment", ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/sone.m3u8
 http://50.7.220.74:8278/One/playlist.m3u8?tid=MB4B6226023862260238&ct=19225&tsum=a05a992f9150d8a389300bf4e108767f
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=sone&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sone_small.png" group-title="Entertainment", ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/sone.m3u8
 http://198.16.64.10:8278/One/playlist.m3u8?tid=MB4B6226023862260238&ct=19225&tsum=a05a992f9150d8a389300bf4e108767f
 https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channel=sone&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_tlc_big.png" group-title="Entertainment", TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/tlc.m3u8
 http://198.16.64.10:8278/Tlc/playlist.m3u8?tid=MDAD1036602010366020&ct=19225&tsum=ac890e48736a7dd973b991044c960239
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_tlc_big.png" group-title="Entertainment", TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/tlc.m3u8?
 http://50.7.220.74:8278/Tlc/playlist.m3u8?tid=MDAD1036602010366020&ct=19225&tsum=ac890e48736a7dd973b991044c960239
-http://iptvid.my.id/hmm/tlc.m3u8?id=tlc
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/htf7QQJc/tdn.png" group-title="Entertainment", TDN
-https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/htf7QQJc/tdn.png" group-title="Entertainment", TDN
-https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8?fta-iptv.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_big.png" group-title="Entertainment", tvN
 http://210.210.155.35:80/dr9445/h/h20/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_big.png" group-title="Entertainment", tvN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/tvn.m3u8
 http://210.210.155.35/dr9445/h/h20/01.m3u8
 
 ***
@@ -592,6 +637,8 @@ http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_crimeinvestigation_big.png" group-title="Knowledge", Crime+ Investigation
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=crimeinvestigation&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_crimeinvestigation_big.png" group-title="Knowledge", Crime+ Investigation
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/crime.m3u8
 https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channel=crimeinvestigation&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 ##EXTINF:-1 tvg-logo="https://i.postimg.cc/dtxnjcXP/discoasia.png" group-title="Knowledge", Discovery Asia
 http://livecdn.fptplay.net/hda2/discoveryasia_hls.smil/chunklist.m3u8
@@ -600,14 +647,20 @@ http://livecdn.fptplay.net/hda2/discoveryasia_hls.smil/chunklist.m3u8?id=discoas
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_big.png" group-title="Knowledge", Discovery Channel
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=disco&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_big.png" group-title="Knowledge", Discovery Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/dsc.m3u8
 https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channel=disco&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_hgtv_big.png" group-title="Knowledge", HGTV
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=hgtv&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_hgtv_big.png" group-title="Knowledge", HGTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/hgtv.m3u8
 https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channel=hgtv&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_history_big.png" group-title="Knowledge", History
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=history&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_history_big.png" group-title="Knowledge", History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/history.m3u8
 https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channel=history&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d1ZNV0F0/inwild.png" group-title="Knowledge", Inwild
 https://inwild-samsungau.amagi.tv/playlist.m3u8
@@ -616,10 +669,14 @@ https://inwild-samsungau.amagi.tv/playlist.m3u8?id=inwild
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_natgeo_big.png" group-title="Knowledge", Nat Geo
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=natgeo&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_natgeo_big.png" group-title="Knowledge", Nat Geo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/natgeo.m3u8
 https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channel=natgeo&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_natgeowild_big.png" group-title="Knowledge", Nat Geo Wild
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=natgeowild&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_natgeowild_big.png" group-title="Knowledge", Nat Geo Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/ngwild.m3u8
 https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channel=natgeowild&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 ##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_outdoor_big.png" group-title="Knowledge", Outdoor Channel
 http://15.235.142.228:8080/live/hometvfree/selaludihati/83.m3u8
@@ -636,6 +693,8 @@ https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_techstorm_big.png" group-title="Knowledge", Techstorm
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=techstorm&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_techstorm_big.png" group-title="Knowledge", Techstorm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/t_storm.m3u8
 https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channel=techstorm&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 
 
@@ -742,14 +801,18 @@ http://210.210.155.35/uq2663/h/h191/01.m3u8
 http://usee.yurend.web.id/usee/MENTARITV.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_mentaritv_big.png" group-title="Kids", Mentari Tv
 http://usee.yurend.web.id/usee/MENTARITV.m3u8?id=mentaritv
-##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nickelodeon_big.png" group-title="Kids", Nickelodeon
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nickelodeon_big.png" group-title="Kids", Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://iptvid.my.id/hmm/nickelodeon.m3u8
-##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nickelodeon_big.png" group-title="Kids", Nickelodeon
-http://iptvid.my.id/hmm/nickelodeon.m3u8?id=nickelodeon
-##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nickjr_big.png" group-title="Kids", Nick Jr.
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nickelodeon_big.png" group-title="Kids", Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/nickelodeon.m3u8?
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nickjr_big.png" group-title="Kids", Nick Jr.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://iptvid.my.id/hmm/nickjr.m3u8
-##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nickjr_big.png" group-title="Kids", Nick Jr.
-http://iptvid.my.id/hmm/nickjr.m3u8?id=nickjr
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nickjr_big.png" group-title="Kids", Nick Jr.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/nickjr.m3u8?
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MGY3BTKm/toonzkidz.png" group-title="Kids", Toonz Kidz
 http://210.210.155.35:80/x6bnqe/s/s81/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MGY3BTKm/toonzkidz.png" group-title="Kids", Toonz Kidz
@@ -769,9 +832,11 @@ http://210.210.155.35:80/qwr9ew/s/s27/01.m3u8
 http://210.210.155.35/qwr9ew/s/s13/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvmui_big.png" group-title="Religi", MUITV
 http://usee.yurend.web.id/usee/MUITV.m3u8
-##EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtatv_big1.png" group-title="Religi", MTATV
-https://miraeindaeyo.masuk.id/joss/masuk.m3u8?token2=koceng634&channel=mtatv
-##EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mqtv_big1.png" group-title="Religi", MQTV
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtatv_big1.png" group-title="Religi", MTATV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/mtatv.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mqtv_big1.png" group-title="Religi", MQTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://iptvid.my.id/hmm/mqtv.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_muhammadiyahtv_big1.png" group-title="Religi", TvMU
 http://usee.yurend.web.id/usee/MUHAMMADIYAHTV.m3u8
@@ -779,48 +844,55 @@ http://usee.yurend.web.id/usee/MUHAMMADIYAHTV.m3u8
 http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv9_big.png" group-title="Religi", TV9
 http://usee.yurend.web.id/usee/TV9.m3u8
-##EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tawaftv_big.png" group-title="Religi", Tawaf TV
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tawaftv_big.png" group-title="Religi", Tawaf TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://iptvid.my.id/hmm/tawaftv.m3u8
 
 ***
 
-##EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_big.png" group-title="Music", Citra Dangdut
-http://tv.zonanime.my.id/vidio/citradangdut.m3u8
-##EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_big.png" group-title="Music", Citra Dangdut
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_big.png" group-title="Music", Citra Dangdut
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://iptvid.my.id/hmm/cdangdut.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_big.png" group-title="Music", Citra Dangdut
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/cdangdut.m3u8?
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ3PHnK8/clubbtv.png" group-title="Music", Clubbing TV
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ3PHnK8/clubbtv.png" group-title="Music", Clubbing TV
-https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8?id=clubtv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ3PHnK8/clubbtv.png" group-title="Music", Clubbing TV
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_ikonser_big.png" group-title="Music", iKonser
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=ikonser&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
-https://miraeindaeyo.masuk.id/joss/masuk.m3u8?token2=koceng634&channel=ikonser
-http://180.211.90.134:8000/play/a07d
-##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_ikonser_big.png" group-title="Music", iKonser
-http://live-birutv.com/play/ikonser.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_ikonser_big.png" group-title="Music", iKonser
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/ikonser.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjZsP7Mc/mtvbiggestpop.jpg" group-title="Music", MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/gjZsP7Mc/mtvbiggestpop.jpg" group-title="Music", MTV Biggest Pop
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjZsP7Mc/mtvbiggestpop.jpg" group-title="Music", MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8?id=mtvpop
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_big.png" group-title="Music", MTV Live
-https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=mtvlive&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 ##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_big.png" group-title="Music", MTV Live
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=mtvlive&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_big.png" group-title="Music", MTV Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://iptvid.my.id/hmm/mtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvJjTJCQ/mtvblocparty.png" group-title="Music", MTV Block party
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/BvJjTJCQ/mtvblocparty.png" group-title="Music", MTV Block party
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvJjTJCQ/mtvblocparty.png" group-title="Music", MTV Block party
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8?id=mtvparty
 ##EXTINF:-1 tvg-logo="https://i.postimg.cc/59D1TvyY/musicavidio.png" group-title="Music", Musica
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6869efe03b7fbef3b001dc15804bc826446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_musikindo_big.png" group-title="Music", Musik Indonesia
 http://usee.yurend.web.id/usee/MUSIKINDO.m3u8
-##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_musikindo_big.png" group-title="Music", Musik Indonesia
-http://live-birutv.com/play/musikindo.m3u8?id=musikindonesia
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_musikindo_big.png" group-title="Music", Musik Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/ikonser.m3u8
 
-##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_prambors_big1.png" group-title="Music", Prambors TV
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_prambors_big1.png" group-title="Music", Prambors TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://iptvid.my.id/hmm/prambors.m3u8
-##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_prambors_big1.png" group-title="Music", Prambors TV
-http://live-birutv.com/play/prambors.m3u8
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_prambors_big1.png" group-title="Music", Prambors TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/prambors.m3u8?
+
 
 ***
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fashiontv_big1.png" group-title="Lifestyle", Fashion TV Asia
