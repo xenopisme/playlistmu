@@ -3,12 +3,10 @@
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_tvri_big1.png" group-title="TV Lokal", TVRI
 http://210.210.155.35:80/qwr9ew/s/s11/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_tvri_big1.png" group-title="TV Lokal", TVRI
+http://alstv.xyz/vidio/tvri.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_tvri_big1.png" group-title="TV Lokal", TVRI
 http://usee.yurend.web.id/usee/TVRI.m3u8
 http://210.210.155.35/qwr9ew/s/s11/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/sXDcZVkP/tvrisporthd.jpg" group-title="TV Lokal", TVRI Sport
-http://210.210.155.37:80/qwr9ew/s/s107/01.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/sXDcZVkP/tvrisporthd.jpg" group-title="TV Lokal", TVRI Sport
-http://210.210.155.37/qwr9ew/s/s107/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_net_big1.png" group-title="TV Lokal", NET.
 http://210.210.155.35/uq2663/h/h06/02.m3u8
 http://210.210.155.35:80/qwr9ew/s/s08/index.m3u8
@@ -44,13 +42,12 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b2800
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_big1.png" group-title="TV Lokal", CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_metrotv_big1.png" group-title="TV Lokal", METRO TV
-https://stream-02.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS2eNLOmV85akyA92hiYe559XxCHxZ0qQscMBn5Dgxo07)/dm/3/x75p70w/d/live-2.m3u8
-http://210.210.155.35/uq2663/h/h12/index.m3u8
+http://210.210.155.35:80/uq2663/h/h12/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_metrotv_big1.png" group-title="TV Lokal", METRO TV
 https://geocities.ws/ariev7xx/metrotv.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_metrotv_big1.png" group-title="TV Lokal", METRO TV
 http://usee.yurend.web.id/usee/METROTV.m3u8
-http://210.210.155.35:80/uq2663/h/h12/01.m3u8
+http://210.210.155.35/uq2663/h/h12/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_kompastv_big.png" group-title="TV Lokal", KOMPAS TV
 http://210.210.155.35:80/qwr9ew/s/s104/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_kompastv_big.png" group-title="TV Lokal", KOMPAS TV
@@ -67,18 +64,18 @@ https://geocities.ws/ariev7xx/tvone.m3u8
 http://usee.yurend.web.id/usee/TVONE.m3u8
 http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_big.png" group-title="TV Lokal", CNBC INDONESIA
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_big.png" group-title="TV Lokal", CNBC INDONESIA
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b280000_sleng.m3u8
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_big.png" group-title="TV Lokal", CNBC INDONESIA
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8?
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_beritasatu_big1.png" group-title="TV Lokal", BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_beritasatu_big1.png" group-title="TV Lokal", BERITA SATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+http://alstv.xyz/vidio/beritasatu.m3u8
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_beritasatu_big1.png" group-title="TV Lokal", BERITA SATU
 http://usee.yurend.web.id/usee/BERITASATU.m3u8
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8?play=beritasatu
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_big1.png" group-title="TV Lokal", ANTV
 http://210.210.155.37:80/qwr9ew/s/s07/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_big1.png" group-title="TV Lokal", ANTV
@@ -153,6 +150,7 @@ http://usee.yurend.web.id/usee/SEATODAY.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_rtv_big1.png" group-title="TV Lokal", RTV
 http://210.210.155.37:80/dr9445/h/h10/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_rtv_big1.png" group-title="TV Lokal", RTV
+http://alstv.xyz/vidio/rtv.m3u8
 http://210.210.155.37:80/dr9445/h/h10/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_jtv_big1.png" group-title="TV Lokal", JTV
 http://usee.yurend.web.id/usee/JTV.m3u8
@@ -299,6 +297,10 @@ http://golive.yn.lt/stream/spotv/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_spotv2_big.png" group-title="Sports", SPOTV 2
 http://usee.yurend.web.id/usee/SPOTV2.m3u8
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng634&channel=spotv2
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/sXDcZVkP/tvrisporthd.jpg" group-title="TV Lokal", TVRI Sport
+http://210.210.155.37:80/qwr9ew/s/s107/01.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/sXDcZVkP/tvrisporthd.jpg" group-title="TV Lokal", TVRI Sport
+http://210.210.155.37/qwr9ew/s/s107/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useesport_big.png" group-title="Sports", Usee Sport
 http://golive.yn.lt/stream/useesport/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useesport_big.png" group-title="Sports", Usee Sport
@@ -366,9 +368,7 @@ https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=fl
 http://alstv.xyz/usee/galaxy.m3u8
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=galaxy&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_galaxy_big.png" group-title="Movies", Galaxy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://iptvid.my.id/hmm/glx.m3u8
-https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channel=galaxy&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
+http://alstv.xyz/usee/galaxy.m3u8?
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_galaxypremium_big.png" group-title="Movies", Galaxy Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://iptvid.my.id/hmm/glxprem.m3u8
@@ -403,6 +403,8 @@ http://210.210.155.35/uq2663/h/h18/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mycinemaasia_big.png" group-title="Movies", My Cinema Asia
 http://210.210.155.35:80/uq2663/h/h193/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mycinemaasia_big.png" group-title="Movies", My Cinema Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvid.my.id/hmm/myca.m3u8
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=mycinemaasia&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 http://210.210.155.35/uq2663/h/h193/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_new-myfamily_big.png" group-title="Movies", My Family Channel
@@ -430,7 +432,7 @@ http://usee.yurend.web.id/usee/STARCHINESEMOVIES.m3u8?id=scm
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmovies_big.png" group-title="Movies", tvN Movies
 http://210.210.155.35:80/dr9445/h/h21/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmovies_big.png" group-title="Movies", tvN Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://alstv.xyz/usee/tvnmovies.m3u8
 http://iptvid.my.id/hmm/tvnmovie.m3u8
 http://210.210.155.35/dr9445/h/h21/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_big.png" group-title="Movies", Thrill
@@ -458,12 +460,10 @@ http://usee.yurend.web.id/usee/ARIRANG.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_arirang_big.png" group-title="Entertainment", Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8?
 http://usee.yurend.web.id/usee/ARIRANG.m3u8?id=arirang
-##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_afc_big.png" group-title="Entertainment", AFN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://iptvid.my.id/hmm/afc.m3u8
-##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_afc_big.png" group-title="Entertainment", AFN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://iptvid.my.id/hmm/afc.m3u8?id=afn
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_afc_big.png" group-title="Entertainment", AFN
+http://alstv.xyz/usee/afc.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_afc_big.png" group-title="Entertainment", AFN
+http://alstv.xyz/usee/afc.m3u8?
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_dunialain_big.png" group-title="Entertainment", Dunia Lain
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=dunialain&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_dunialain_big.png" group-title="Entertainment", Dunia Lain
@@ -507,13 +507,6 @@ http://210.210.155.35:80/dr9445/h/h15/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://iptvid.my.id/hmm/rockext.m3u8
 http://210.210.155.35/dr9445/h/h15/01.m3u8                     
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sgem_small.png" group-title="Entertainment", GEM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://iptvid.my.id/hmm/sgem.m3u8
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sgem_small.png" group-title="Entertainment", GEM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://iptvid.my.id/hmm/sgem.m3u8?
-https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channel=sgem&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sone_small.png" group-title="Entertainment", ONE
 http://198.16.64.10:8278/One/playlist.m3u8?tid=MB4B6226023862260238&ct=19225&tsum=a05a992f9150d8a389300bf4e108767f
 http://50.7.220.74:8278/One/playlist.m3u8?tid=MB4B6226023862260238&ct=19225&tsum=a05a992f9150d8a389300bf4e108767f
@@ -533,7 +526,7 @@ http://50.7.220.74:8278/Tlc/playlist.m3u8?tid=MDAD1036602010366020&ct=19225&tsum
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_big.png" group-title="Entertainment", tvN
 http://210.210.155.35:80/dr9445/h/h20/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_big.png" group-title="Entertainment", tvN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://alstv.xyz/usee/tvn.m3u8
 http://iptvid.my.id/hmm/tvn.m3u8
 http://210.210.155.35/dr9445/h/h20/01.m3u8
 
@@ -779,8 +772,8 @@ https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=mt
 http://iptvid.my.id/hmm/mtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvJjTJCQ/mtvblocparty.png" group-title="Music", MTV Block party
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/59D1TvyY/musicavidio.png" group-title="Music", Musica
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6869efe03b7fbef3b001dc15804bc826446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59D1TvyY/musicavidio.png" group-title="Music", Musica
+http://alstv.xyz/vidio/musica.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_musikindo_big.png" group-title="Music", Musik Indonesia
 http://usee.yurend.web.id/usee/MUSIKINDO.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_prambors_big1.png" group-title="Music", Prambors TV
