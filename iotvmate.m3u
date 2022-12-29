@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml"  refresh="3600"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml, https://iptv-org.github.io/epg/guides/id.xml"  refresh="3600"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -97,7 +97,6 @@ http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 http://210.210.155.35:80/qwr9ew/s/s04/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png" group-title="TV Lokal", Indosiar
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
-https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5ffddd6e9165aa1117
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png" group-title="TV Lokal", Indosiar
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=indosiar&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
@@ -189,6 +188,7 @@ https://anevia114.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 https://anevia115.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_beritasatu_big1.png" group-title="TV Lokal", Berita Satu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -201,9 +201,6 @@ https://anevia114.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/pimages/logo_balitv_big1.png" group-title="TV Lokal", Bali TV
 https://anevia115.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_balitv_big1.png" group-title="TV Lokal", Bali TV
-http://usee.yurend.web.id/usee/BALITV.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/pimages/logo_jaktv_big1.png" group-title="TV Lokal", JakTV
@@ -213,9 +210,6 @@ https://anevia114.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/pimages/logo_jaktv_big1.png" group-title="TV Lokal", JakTV
 https://anevia115.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_jaktv_big1.png" group-title="TV Lokal", JakTV
-http://usee.yurend.web.id/usee/JAKTV.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -241,7 +235,7 @@ https://anevia114.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 https://anevia115.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_idx_big.png" group-title="TV Lokal", IDX
-http://usee.yurend.web.id/usee/IDX.m3u8
+http://alstv.xyz/usee/idx.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -254,7 +248,7 @@ https://anevia114.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 https://anevia115.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_seatoday_big.png" group-title="TV Lokal", Sea Today
-http://usee.yurend.web.id/usee/SEATODAY.m3u8
+http://alstv.xyz/usee/seatoday.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -267,12 +261,7 @@ https://anevia114.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 https://anevia115.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_jtv_small1.png" group-title="TV Lokal", JTV
-http://usee.yurend.web.id/usee/JTV.m3u8
-
-##EXTINF:-1 tvg-logo="https://i.ibb.co/SxXW6Jb/mytv.png" group-title="TV Lokal", MYTV 
-http://210.210.155.35:80/x6bnqe/s/s88/S4/mnf.m3u8
-##EXTINF:-1 tvg-logo="https://i.ibb.co/SxXW6Jb/mytv.png" group-title="TV Lokal", MYTV
-http://210.210.155.35/x6bnqe/s/s88/S4/mnf.m3u8
+http://alstv.xyz/usee/jtv.m3u8
 
 ***
 
@@ -484,15 +473,19 @@ https://anevia114.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/FRK9sZDX/mncsport.png" group-title="Sports", MNC Sports 3
 https://anevia114.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Sports", beIN Sports 1
 https://anevia114.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Sports", beIN Sports 1
+https://devds.site/api/indihoy/hls.m3u8?ch=bein1
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://images.useetv.com/logo_bein3_big1.png" group-title="Sports", beIN Sports 3
 https://anevia114.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein3_big1.png" group-title="Sports", beIN Sports 3
+https://devds.site/api/indihoy/hls.m3u8?ch=bein2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -559,8 +552,7 @@ http://iptvid.my.id/hmm/horisonsport.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/850wLhtb/motorvisiontv.png" group-title="Sports", Motorvision Tv
 http://210.210.155.35:80/uq2663/h/h09/01.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nba_big1.png" group-title="Sports", NBA Tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://iptvid.my.id/hmm/nba.m3u8
+http://alstv.xyz/usee/nba.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBVVyYKW/tvredbull.png" group-title="Sports", RedBull TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdJ8j7TQ/spoortstv.png" group-title="Sports", Sportstv
@@ -586,19 +578,17 @@ https://anevia114.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/pimages/logo_spotv2_big.png" group-title="Sports", SPOTV 2
 https://anevia115.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/sXDcZVkP/tvrisporthd.jpg" group-title="Sports", TVRI Sport
+http://210.210.155.37:80/qwr9ew/s/s107/01.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/sXDcZVkP/tvrisporthd.jpg" group-title="Sports", TVRI Sport
+http://210.210.155.37/qwr9ew/s/s107/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useesport_big.png" group-title="Sports", Usee Sport
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=useesport&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useesport_big.png" group-title="Sports", Usee Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://iptvid.my.id/hmm/useetl1.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useesports2_big.png" group-title="Sports", Usee Sports 2
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=useesports2&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useesports2_big.png" group-title="Sports", Usee Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://iptvid.my.id/hmm/useetl2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rp3T3gPG/Unifisports1.png" group-title="Sports",Unifi Sport 1
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
@@ -823,8 +813,7 @@ https://anevia115.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternation
 https://anevia114.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dwtv_big.png" group-title="News", DW TV
-http://210.210.155.35/x6bnqe/s/s25/S4/mnf.m3u8
-http://210.210.155.35:80/qwr9ew/s/s26/01.m3u8
+http://210.210.155.37:80/x6bnqe/s/s25/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -869,14 +858,16 @@ https://anevia115.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
 #EXTINF:0 tvg-logo="https://www.useetv.com/pimages/logo_trtworld_small.png" group-title="News", TRT World
 https://anevia114.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_trtworld_small.png" group-title="News", TRT World
-http://210.210.155.35:80/uq2663/h/h156/S4/mnf.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-logo="https://www.useetv.com/pimages/logo_trtworld_small.png" group-title="News", TRT World
+https://anevia115.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 
 ##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tv5monde_big1.png" group-title="News", TV5 Monde Asie
-http://210.210.155.35:80/dr9445/s/s24/01.m3u8
+http://210.210.155.37:80/dr9445/s/s212/index.m3u8
 
 ##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tv5monde_big1.png" group-title="News", TV5 Monde Asie
-http://210.210.155.35/dr9445/s/s24/01.m3u8
+http://210.210.155.37:80/dr9445/s/s212/01.m3u8
 
 ***
 
@@ -1039,12 +1030,16 @@ https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg1
 https://production-premium-fashiontv-vidio.akamaized.net/fashion/_definst_/ftv_pg13_adaptive_v3.smil/master.m3u8
 ##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fashiontv_big1.png" group-title="Lifestyle", FTV MIDNIGHT SECRET
 https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive_v3.smil/master.m3u8
-##EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ruangtrampil_big.png" group-title="Lifestyle", Ruang Trampil
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ruangtrampil_big.png" group-title="Lifestyle", Ruang Trampil
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useephoto_big.png" group-title="Lifestyle", Usee Photo
-http://usee.yurend.web.id/usee/USEEPHOTO.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useeprime_big1.png" group-title="Lifestyle", Usee Prime
-http://usee.yurend.web.id/usee/USEEPRIME.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
+
 
 ***
 
@@ -1160,7 +1155,6 @@ https://anevia115.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kG4dkcTB/zoomookids.png" group-title="Kids", ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8?
-http://tvn.x10.mx/1/master-8.m3u8?dl=1
 
 ***
 
@@ -1201,15 +1195,13 @@ https://anevia114.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.m
 https://anevia114.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvmui_small.png" group-title="Religi", MUITV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://usee.yurend.web.id/usee/MUITV.m3u8
+http://alstv.xyz/usee/muitv.m3u8
 
-##EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtatv_small1.png" group-title="Religi", MTATV
-https://miraeindaeyo.masuk.id/joss/masuk.m3u8?token2=koceng634&channel=mtatv
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtatv_small1.png" group-title="Religi", MTATV
+http://alstv.xyz/usee/mtatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mqtv_big1.png" group-title="Religi", MQTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://iptvid.my.id/hmm/mqtv.m3u8
+http://alstv.xyz/usee/mqtv.m3u8
 
 ***
 
@@ -1218,7 +1210,7 @@ http://iptvid.my.id/hmm/mqtv.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Df4s9gBY/musiktv.png" group-title="Music", Music Channel
 https://anevia114.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_big.png" group-title="Music", Citra Dangdut
+##EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_big.png" group-title="Music", Citra Dangdut
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://iptvid.my.id/hmm/cdangdut.m3u8
 
@@ -1238,7 +1230,7 @@ https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=mt
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59D1TvyY/musicavidio.png" group-title="Music", Musica
-http://alstv.xyz/vidio/musica.m3u8
+https://ilike.squdinc.workers.dev/play.m3u8?id=7619&key=vidio&type=hls
 
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_musikindo_big.png" group-title="Music", Musik Indonesia
 http://usee.yurend.web.id/usee/MUSIKINDO.m3u8
