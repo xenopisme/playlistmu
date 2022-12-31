@@ -96,15 +96,22 @@ https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=sc
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/ZKK8y1k1/RCTI.png" group-title="TV Lokal", RCTI
 http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157591
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/ZKK8y1k1/RCTI.png" group-title="TV Lokal", RCTI
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/13494
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/ZKK8y1k1/RCTI.png" group-title="TV Lokal", RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://anv-livechannel-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/HsXrnznf/GTV.png" group-title="TV Lokal", GTV
-http://ku03.wanicelife.com:8880/12mm070056/67571551/60483
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/HsXrnznf/GTV.png" group-title="TV Lokal", GTV
-https://anv-livechannel-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/hj5FCD2T/mnctv.png" group-title="TV Lokal", MNC TV
 http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/165054
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/hj5FCD2T/mnctv.png" group-title="TV Lokal", MNC TV
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/64344
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/hj5FCD2T/mnctv.png" group-title="TV Lokal", MNC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://anv-livechannel-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/HsXrnznf/GTV.png" group-title="TV Lokal", GTV
+http://ku03.wanicelife.com:8880/12mm070056/67571551/60483
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/HsXrnznf/GTV.png" group-title="TV Lokal", GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://anv-livechannel-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_mncnews_big.png" group-title="TV Lokal", MNC News
 http://alstv.xyz/usee/mncnews.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_mncnews_big.png" group-title="TV Lokal", MNC News
@@ -206,9 +213,9 @@ http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115618&extension=
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYMGRVXP/astrosp4.png" group-title="Sports", ASSP 4
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115618&extension=ts&play_token=TQ6cftyhX8
 ##EXTINF:-1 tvg-logo="https://i.postimg.cc/W1svZszL/astrosp5.png" group-title="Sports", ASSP 5
-http://51.81.208.129:35461/80203081502/656678/7981
+
 ##EXTINF:-1 tvg-logo="https://i.postimg.cc/W1svZszL/astrosp5.png" group-title="Sports", ASSP 5
-http://51.81.208.129:35461/80203081502/656678/7982
+
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Sports", beIN Sports 1
 http://alstv.xyz/usee/bein1.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Sports", beIN Sports 1
@@ -343,20 +350,12 @@ http://alstv.xyz/usee/galaxypremium.m3u8
 http://alstv.xyz/usee/galaxypremium.m3u8?
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5mSyZ6N/hbo.png" group-title="Movies", HBO
 http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/197972
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5mSyZ6N/hbo.png" group-title="Movies", HBO
-https://tvkitaproject.my.id/hbo/index.m3u8?id=hbohd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pL4xjhT3/hbohits.png" group-title="Movies", HBO HITS
 http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/196480
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pL4xjhT3/hbohits.png" group-title="Movies", HBO HITS
-https://tvkitaproject.my.id/hbo/index.m3u8?id=hitshd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nhzBz5j0/hbosig.png" group-title="Movies", HBO SIGNATURE
 http://ku03.wanicelife.com:8880/12mm070056/67571551/60456
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhzBz5j0/hbosig.png" group-title="Movies", HBO SIGNATURE
-https://tvkitaproject.my.id/hbo/index.m3u8?id=sighd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/507jZ9pJ/hbofam.png" group-title="Movies", HBO FAMILY
-https://tvkitaproject.my.id/hbo/index.m3u8?id=famhd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/507jZ9pJ/hbofam.png" group-title="Movies", HBO FAMILY
-https://tvkitaproject.my.id:443/hbo/index.m3u8?id=famhd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhzBz5j0/hbosig.png" group-title="Movies", HBO Family
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/13512
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_hits_big.png" group-title="Movies", HITS
 http://210.210.155.35:80/dr9445/h/h37/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_hits_big.png" group-title="Movies", HITS
@@ -485,6 +484,7 @@ http://210.210.155.35/dr9445/h/h20/01.m3u8
 ***
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZhyVmTZ/animlplnt.png" group-title="Knowledge", Animal Planet
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157532
 http://198.16.64.10:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
 http://50.7.220.74:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZhyVmTZ/animlplnt.png" group-title="Knowledge", Animal Planet
@@ -550,7 +550,7 @@ https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channe
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_abcaustralia_big.png" group-title="News", ABC Australia
 http://alstv.xyz/usee/abcaustralia.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_abcaustralia_big.png" group-title="News", ABC Australia
-http://alstv.xyz/usee/abcaustralia.m3u8
+http://alstv.xyz/usee/abcaustralia.m3u8?
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_aljazeera_big1.png" group-title="News", Al Jazeera English
 http://210.210.155.35:80/qwr9ew/s/s17/01.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_aljazeera_big1.png" group-title="News", Al Jazeera English
@@ -569,7 +569,6 @@ http://210.210.155.35:80/uq2663/h/h29/index.m3u8
 http://210.210.155.35/uq2663/h/h29/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dwtv_big.png" group-title="News", DW English
 http://210.210.155.37:80/x6bnqe/s/s25/index.m3u8
-http://alstv.xyz/usee/dwtv.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dwtv_big.png" group-title="News", DW English
 http://alstv.xyz/usee/dwtv.m3u8
 ##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_euronews_big1.png" group-title="News", Euro News
@@ -634,7 +633,7 @@ https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channe
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3JCJc1Rv/hiphiphoree.png" group-title="Kids", Hip Hip Horee
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/7052.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3JCJc1Rv/hiphiphoree.png" group-title="Kids", Hip Hip Horee
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/7052.m3u8
+https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/7052.m3u8?
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_lingua_big.png" group-title="Kids", Lingua Channel
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=lingua&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_lingua_big.png" group-title="Kids", Lingua Channel
@@ -650,17 +649,15 @@ http://alstv.xyz/usee/mentaritv.m3u8
 https://ilike.squdinc.workers.dev/play.m3u8?id=8237&key=vidio&type=hls
 http://alstv.xyz/usee/mentaritv.m3u8?
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nickelodeon_big.png" group-title="Kids", Nickelodeon
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157541
 http://198.16.64.10:8278/Nickelodeon/playlist.m3u8?tid=MB0B3920856439208564&ct=19225&tsum=8dd558d6ca17cb0d8e9e4563c0787c69
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nickelodeon_big.png" group-title="Kids", Nickelodeon
 http://50.7.220.74:8278/Nickelodeon/playlist.m3u8?tid=MB0B3920856439208564&ct=19225&tsum=8dd558d6ca17cb0d8e9e4563c0787c69
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nickjr_big.png" group-title="Kids", Nick Jr.
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/165107
 http://198.16.64.10:8278/Nickjr/playlist.m3u8?tid=MA3A3266018432660184&ct=19225&tsum=ab65f24cfbcee7192bade2c6f4055102
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nickjr_big.png" group-title="Kids", Nick Jr.
 http://50.7.220.74:8278/Nickjr/playlist.m3u8?tid=MA3A3266018432660184&ct=19225&tsum=ab65f24cfbcee7192bade2c6f4055102
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGY3BTKm/toonzkidz.png" group-title="Kids", Toonz Kidz
-http://210.210.155.35:80/x6bnqe/s/s81/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGY3BTKm/toonzkidz.png" group-title="Kids", Toonz Kidz
-http://210.210.155.35/x6bnqe/s/s81/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kG4dkcTB/zoomookids.png" group-title="Kids", ZooMoo
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6533.m3u8
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
