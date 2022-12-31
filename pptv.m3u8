@@ -97,21 +97,12 @@ https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=sc
 http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157591
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/ZKK8y1k1/RCTI.png" group-title="TV Lokal", RCTI
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/13494
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/ZKK8y1k1/RCTI.png" group-title="TV Lokal", RCTI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://anv-livechannel-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/hj5FCD2T/mnctv.png" group-title="TV Lokal", MNC TV
 http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/165054
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/hj5FCD2T/mnctv.png" group-title="TV Lokal", MNC TV
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/64344
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/hj5FCD2T/mnctv.png" group-title="TV Lokal", MNC TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://anv-livechannel-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/HsXrnznf/GTV.png" group-title="TV Lokal", GTV
+##EXTINF: -1 tvg-logo="https://i.postimg.cc/HsXrnznf/GTV.png" group-title="TV Lokal", GTV
 http://ku03.wanicelife.com:8880/12mm070056/67571551/60483
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/HsXrnznf/GTV.png" group-title="TV Lokal", GTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://anv-livechannel-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_mncnews_big.png" group-title="TV Lokal", MNC News
 http://alstv.xyz/usee/mncnews.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_mncnews_big.png" group-title="TV Lokal", MNC News
@@ -124,9 +115,9 @@ http://alstv.xyz/usee/inews.m3u8?
 http://alstv.xyz/usee/jaktv.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_jaktv_big1.png" group-title="TV Lokal", JakTv
 http://alstv.xyz/usee/jaktv.m3u8?
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_balitv_big1.png" group-title="TV Lokal", Bali Tv
+##EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_balitv_big1.png" group-title="TV Lokal", Bali Tv
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_balitv_big1.png" group-title="TV Lokal", Bali Tv
+##EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_balitv_big1.png" group-title="TV Lokal", Bali Tv
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8?
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_seatoday_big.png" group-title="TV Lokal", SEA Today
 http://alstv.xyz/usee/seatoday.m3u8
@@ -212,10 +203,10 @@ http://51.79.82.208:16062
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115618&extension=ts&play_token
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYMGRVXP/astrosp4.png" group-title="Sports", ASSP 4
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115618&extension=ts&play_token=TQ6cftyhX8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1svZszL/astrosp5.png" group-title="Sports", ASSP 5
+http://line5.protv.cc:80/play/live.php?mac=00:1A:79:A3:20:CF&stream=918982&extension=ts
 ##EXTINF:-1 tvg-logo="https://i.postimg.cc/W1svZszL/astrosp5.png" group-title="Sports", ASSP 5
-
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/W1svZszL/astrosp5.png" group-title="Sports", ASSP 5
-
+http://line2.protv.cc:80/play/live.php?mac=00:1A:79:a2:f0:0b&stream=918982&extension=ts
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Sports", beIN Sports 1
 http://alstv.xyz/usee/bein1.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Sports", beIN Sports 1
@@ -253,8 +244,6 @@ http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fight_big1.png" group-title="Sports", Fight Sports
 http://210.210.155.37:80/dr9445/h/h05/index.m3u8
 ##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_horizonsport_big.png" group-title="Sports", Horizon Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://iptvid.my.id/hmm/horisonsport.m3u8
 http://live-birutv.com/play/horisonsport.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/850wLhtb/motorvisiontv.png" group-title="Sports", Motorvision Tv
 http://210.210.155.35:80/uq2663/h/h09/01.m3u8
@@ -332,10 +321,8 @@ http://usee.yurend.web.id/usee/CHINESEDRAMA.m3u8
 https://live-birutv.com/tele@biRUTV/chinesedrama.m3u8
 ##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_chinesedrama_big.png" group-title="Movies", Chinese Drama
 https://live-birutv.com/tele@biRUTV/chinesedrama.m3u8?id=cdrama
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHg5Ydjr/cinemax.png" group-title="Movies", Cinemax
-https://tvkitaproject.my.id/hbo/index.m3u8?id=maxhd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHg5Ydjr/cinemax.png" group-title="Movies", Cinemax
-https://tvkitaproject.my.id:443/hbo/index.m3u8?id=maxhd
+##EXTINF:-1 tvg-logo="https://i.postimg.cc/FHg5Ydjr/cinemax.png" group-title="Movies", Cinemax
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_flik_big1.png" group-title="Movies", Flik
 http://alstv.xyz/usee/flik.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_flik_big1.png" group-title="Movies", Flik
@@ -352,9 +339,9 @@ http://alstv.xyz/usee/galaxypremium.m3u8?
 http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/197972
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pL4xjhT3/hbohits.png" group-title="Movies", HBO HITS
 http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/196480
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhzBz5j0/hbosig.png" group-title="Movies", HBO SIGNATURE
-http://ku03.wanicelife.com:8880/12mm070056/67571551/60456
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhzBz5j0/hbosig.png" group-title="Movies", HBO Family
+##EXTINF:-1 tvg-logo="https://i.postimg.cc/nhzBz5j0/hbosig.png" group-title="Movies", HBO SIGNATURE
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/507jZ9pJ/hbofam.png" group-title="Movies", HBO Family
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/13512
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_hits_big.png" group-title="Movies", HITS
 http://210.210.155.35:80/dr9445/h/h37/index.m3u8
@@ -392,12 +379,8 @@ https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=pa
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_paramount_big.png" group-title="Movies", Paramount Channel
 https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channel=paramount&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 ##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_starchinesemovies_big.png" group-title="Movies", Star Chinese Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://iptvid.my.id/hmm/starcm.m3u8
 http://usee.yurend.web.id/usee/STARCHINESEMOVIES.m3u8
 ##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_starchinesemovies_big.png" group-title="Movies", Star Chinese Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://iptvid.my.id/hmm/starcm.m3u8?
 http://usee.yurend.web.id/usee/STARCHINESEMOVIES.m3u8?id=scm
 ##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_starchinesechannel_big.png" group-title="Movies", Star Chinese Channel
 http://usee.yurend.web.id/usee/STARCHINESEMOVIES.m3u8
@@ -628,7 +611,6 @@ https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channe
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_horee_big.png" group-title="Kids", Horee
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=horee&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_horee_big.png" group-title="Kids", Horee
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6397.m3u8
 https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channel=horee&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3JCJc1Rv/hiphiphoree.png" group-title="Kids", Hip Hip Horee
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/7052.m3u8
@@ -647,7 +629,6 @@ http://210.210.155.35/uq2663/h/h191/01.m3u8
 http://alstv.xyz/usee/mentaritv.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_mentaritv_big.png" group-title="Kids", Mentari Tv
 https://ilike.squdinc.workers.dev/play.m3u8?id=8237&key=vidio&type=hls
-http://alstv.xyz/usee/mentaritv.m3u8?
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nickelodeon_big.png" group-title="Kids", Nickelodeon
 http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157541
 http://198.16.64.10:8278/Nickelodeon/playlist.m3u8?tid=MB0B3920856439208564&ct=19225&tsum=8dd558d6ca17cb0d8e9e4563c0787c69
@@ -662,7 +643,6 @@ http://50.7.220.74:8278/Nickjr/playlist.m3u8?tid=MA3A3266018432660184&ct=19225&t
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6533.m3u8
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kG4dkcTB/zoomookids.png" group-title="Kids", ZooMoo
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6533.m3u8?
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8?
 
 ***
@@ -686,13 +666,12 @@ http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv9_big.png" group-title="Religi", TV9
 http://alstv.xyz/usee/tv9.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tawaftv_big.png" group-title="Religi", Tawaf TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://alstv.xyz/usee/tawaftv.m3u8
 
 ***
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_big.png" group-title="Music", Citra Dangdut
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6587.m3u8
+https://ilike.squdinc.workers.dev/play.m3u8?id=6587&key=vidio&type=hls
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ3PHnK8/clubbtv.png" group-title="Music", Clubbing TV
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_ikonser_big.png" group-title="Music", iKonser
@@ -766,7 +745,6 @@ http://51.79.82.208:16007
 http://198.16.64.10:8278/Prima/playlist.m3u8?tid=m02000000000016192913&ct=17958&tsum=7c7f40ea3d204e5a683354afd932a406
 http://51.79.82.208:16008
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Ssqm5mj/okey.png" group-title="Malaysia", Okey
-https://anon.devds.site/link.php?hash=aHR0cDovL214dTAzLndhbmljZWxpZmUuY29tOjg4ODAvbGl2ZS80OG1mMDMwMjIyLzY5MTkxMjEzLzcxMDYwLnRz
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/9TF3GH2/oasis.png" group-title="Malaysia", Astro Oasis
 http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157489
