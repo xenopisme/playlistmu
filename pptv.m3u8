@@ -77,6 +77,8 @@ http://210.210.155.37:80/qwr9ew/s/s07/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_big1.png" group-title="TV Lokal", ANTV
 https://geocities.ws/ariev7xx/antv.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_big1.png" group-title="TV Lokal", ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://ezstat.ru/useeantv.m3u8
 https://ilike.squdinc.workers.dev/play.m3u8?id=782&key=vidio&type=hls
 http://210.210.155.37:80/qwr9ew/s/s07/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_big1.png" group-title="TV Lokal", INDOSIAR
@@ -104,8 +106,10 @@ http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/64344
 #EXTINF: -1 tvg-logo="https://images.useetv.com/assets/logo_gtv_hd.png" group-title="TV Lokal", GTV
 http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/62243
 #EXTINF: -1 tvg-logo="https://images.useetv.com/assets/logo_gtv_hd.png" group-title="TV Lokal", GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://ezstat.ru/gtvplus
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://images.useetv.com/assets/logo_gtv_hd.png" group-title="TV Lokal", GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://ezstat.ru/livegtv.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_mncnews_big.png" group-title="TV Lokal", MNC News
 http://alstv.xyz/usee/mncnews.m3u8
@@ -120,8 +124,10 @@ http://alstv.xyz/usee/jaktv.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_jaktv_big1.png" group-title="TV Lokal", JakTv
 http://alstv.xyz/usee/jaktv.m3u8?
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_balitv_big1.png" group-title="TV Lokal", Bali Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://ezstat.ru/useebalitv.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_balitv_big1.png" group-title="TV Lokal", Bali Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://ezstat.ru/maxbalitv.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_seatoday_big.png" group-title="TV Lokal", SEA Today
 http://alstv.xyz/usee/seatoday.m3u8
@@ -355,9 +361,11 @@ https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=hi
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_hitsmovie_big.png" group-title="Movies", HITS Movies
 http://alstv.xyz/usee/hitsmovie.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_imc_big.png" group-title="Movies", IMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://ezstat.ru/useeimc
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=imc&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_imc_big.png" group-title="Movies", IMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://ezstat.ru/useeimc.m3u8
 https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channel=imc&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_new-mycinema_big.png" group-title="Movies", My Cinema
@@ -637,11 +645,15 @@ https://ilike.squdinc.workers.dev/play.m3u8?id=8237&key=vidio&type=hls
 http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157541
 http://198.16.64.10:8278/Nickelodeon/playlist.m3u8?tid=MB0B3920856439208564&ct=19225&tsum=8dd558d6ca17cb0d8e9e4563c0787c69
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nickelodeon_big.png" group-title="Kids", Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://ezstat.ru/useenickelodeon.m3u8
 http://50.7.220.74:8278/Nickelodeon/playlist.m3u8?tid=MB0B3920856439208564&ct=19225&tsum=8dd558d6ca17cb0d8e9e4563c0787c69
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nickjr_big.png" group-title="Kids", Nick Jr.
 http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/165107
 http://198.16.64.10:8278/Nickjr/playlist.m3u8?tid=MA3A3266018432660184&ct=19225&tsum=ab65f24cfbcee7192bade2c6f4055102
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nickjr_big.png" group-title="Kids", Nick Jr.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://ezstat.ru/useenickjr.m3u8
 http://50.7.220.74:8278/Nickjr/playlist.m3u8?tid=MA3A3266018432660184&ct=19225&tsum=ab65f24cfbcee7192bade2c6f4055102
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kG4dkcTB/zoomookids.png" group-title="Kids", ZooMoo
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6533.m3u8
@@ -692,6 +704,7 @@ https://ilike.squdinc.workers.dev/play.m3u8?id=7619&key=vidio&type=hls
 http://usee.yurend.web.id/usee/MUSIKINDO.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_prambors_big1.png" group-title="Music", Prambors TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://ezstat.ru/useepramborstv.m3u8
 http://iptvid.my.id/hmm/prambors.m3u8
 
 
