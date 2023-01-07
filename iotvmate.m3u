@@ -488,24 +488,65 @@ https://anevia114.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/FRK9sZDX/mncsport.png" group-title="Sports", MNC Sports 3
 https://anevia114.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Sports", beIN Sports 1
-https://anevia114.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+##KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+##EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Sports", beIN Sports 1
+#https://anevia114.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://images.useetv.com/logo_bein3_big1.png" group-title="Sports", beIN Sports 3
-https://anevia114.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+##KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+##EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://images.useetv.com/logo_bein3_big1.png" group-title="Sports", beIN Sports 3
+#https://anevia114.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Sports", beIN Sports 1 Premium
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0vK8w0c/astrosp1.png" group-title="Sports", ASSP
+https://webdi.openhd.lol/ddy1/premium123/index.m3u8
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115615&extension=ts&play_token
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0vK8w0c/astrosp1.png" group-title="Sports", ASSP
+https://no2.openhd.lol/ddy1/premium123/tracks-v1a1/mono.m3u8
+https://webdi.openhd.lol/ddy1/premium123/index.m3u8?
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115615&extension=ts&play_token=TQ6cftyhX8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrNyMtW5/astrosp2.png" group-title="Sports", ASSP 2
+https://webdi.openhd.lol/ddy1/premium124/index.m3u8
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115616&extension=ts&play_token
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrNyMtW5/astrosp2.png" group-title="Sports", ASSP 2
+https://no2.openhd.lol/ddy1/premium124/tracks-v1a1/mono.m3u8
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115616&extension=ts&play_token=TQ6cftyhX8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8CqHsc3/astrosp3.png" group-title="Sports", ASSP 3
+https://webdi.openhd.lol/ddy1/premium125/index.m3u8
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115617&extension=ts&play_token
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8CqHsc3/astrosp3.png" group-title="Sports", ASSP 3
+https://no2.openhd.lol/ddy1/premium125/tracks-v1a1/mono.m3u8
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115617&extension=ts&play_token=TQ6cftyhX8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYMGRVXP/astrosp4.png" group-title="Sports", ASSP 4
+https://webdi.openhd.lol/ddy1/premium126/index.m3u8
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115618&extension=ts&play_token
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYMGRVXP/astrosp4.png" group-title="Sports", ASSP 4
+https://no2.openhd.lol/ddy1/premium126/tracks-v1a1/mono.m3u8
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115618&extension=ts&play_token=TQ6cftyhX8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1svZszL/astrosp5.png" group-title="Sports", ASSP 5
+https://webdi.openhd.lol/ddy1/premium43/index.m3u8
+http://line2.protv.cc:80/play/live.php?mac=00:1A:79:b2:7d:da&stream=918982&extension=ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1svZszL/astrosp5.png" group-title="Sports", ASSP 5
+https://no2.openhd.lol/ddy1/premium43/tracks-v1a1/mono.m3u8
+http://line2.protv.cc:80/play/live.php?mac=00:1A:79:72:0e:39&stream=918982&extension=ts
+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Sports", beIN Sports 1
+https://webdi.openhd.lol/lb/premium116/index.m3u8
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Sports", beIN Sports 1
+https://no2.openhd.lol/ddy1/premium116/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein2_big1.png" group-title="Sports", beIN Sports 2
+https://webdi.openhd.lol/lb/premium117/index.m3u8
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein2_big1.png" group-title="Sports", beIN Sports 2
+https://no2.openhd.lol/ddy1/premium117/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1twFxYDM/beinsprem1.png" group-title="Sports", beIN Sports 1 Premium
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=111600&extension=ts&play_token
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Sports", beIN Sports 1 Premium
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1twFxYDM/beinsprem1.png" group-title="Sports", beIN Sports 1 Premium
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=111600&extension=ts&play_token
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Sports", beIN Sports 2 Premium
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=111601&extension=ts&play_token
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein2_big1.png" group-title="Sports", beIN Sports 2 Premium
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=111600&extension=ts&play_token
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J46GFW9M/beinsprem2.png" group-title="Sports", beIN Sports 2 Premium
+http://31.220.3.170/play/live.php?mac=00:1A:79:AB:A0:A6&stream=111601&extension=ts&play_token
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J46GFW9M/beinsprem2.png" group-title="Sports", beIN Sports 2 Premium
+http://clientsportals.tv/play/live.php?mac=00:1A:79:c0:0f:95&stream=111601&extension=ts&play_token
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1081,7 +1122,7 @@ https://anevia114.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channel=animax&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://images.useetv.com/logo_aniplus_big1.png" group-title="Kids", Aniplus
-http://rr1.dens.tv/h/h02/01.m3u8
+https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channel=aniplus&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://images.useetv.com/logo_aniplus_big1.png" group-title="Kids", Aniplus
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=aniplus&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 
