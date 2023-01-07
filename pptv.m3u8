@@ -234,30 +234,29 @@ http://198.16.64.10:8278/Arena/playlist.m3u8?tid=MA4A2365848123658481&ct=19225&t
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1XTPsF8P/arena2.png" group-title="Sports", Astro Arena 2
 http://198.16.64.10:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&tsum=b2683db779f0d06341b243e292480482
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0vK8w0c/astrosp1.png" group-title="Sports", ASSP
+http://31.220.3.170/play/live.php?mac=00:1A:79:bf:85:ce&stream=115615&extension=ts&play_token
 https://webdi.openhd.lol/ddy1/premium123/index.m3u8
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115615&extension=ts&play_token
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0vK8w0c/astrosp1.png" group-title="Sports", ASSP
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115615&extension=ts&play_token
 https://no2.openhd.lol/ddy1/premium123/tracks-v1a1/mono.m3u8
-https://webdi.openhd.lol/ddy1/premium123/index.m3u8?
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115615&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrNyMtW5/astrosp2.png" group-title="Sports", ASSP 2
-https://webdi.openhd.lol/ddy1/premium124/index.m3u8
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115616&extension=ts&play_token
+https://webdi.openhd.lol/ddy1/premium124/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrNyMtW5/astrosp2.png" group-title="Sports", ASSP 2
+http://clientsportals.tv/play/live.php?mac=00:1A:79:00:04:02&stream=115616&extension=ts&play_token
 https://no2.openhd.lol/ddy1/premium124/tracks-v1a1/mono.m3u8
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115616&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8CqHsc3/astrosp3.png" group-title="Sports", ASSP 3
+http://31.220.3.170/play/live.php?mac=00:1A:79:00:04:02&stream=115617&extension=ts&play_token
 https://webdi.openhd.lol/ddy1/premium125/index.m3u8
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115617&extension=ts&play_token
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8CqHsc3/astrosp3.png" group-title="Sports", ASSP 3
+http://clientsportals.tv/play/live.php?mac=00:1A:79:B3:1B:3B&stream=115617&extension=ts&play_token
 https://no2.openhd.lol/ddy1/premium125/tracks-v1a1/mono.m3u8
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115617&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYMGRVXP/astrosp4.png" group-title="Sports", ASSP 4
+http://31.220.3.170/play/live.php?mac=00:1A:79:AB:A0:A6&stream=115618&extension=ts&play_token
 https://webdi.openhd.lol/ddy1/premium126/index.m3u8
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115618&extension=ts&play_token
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYMGRVXP/astrosp4.png" group-title="Sports", ASSP 4
+http://clientsportals.tv/play/live.php?mac=00:1A:79:00:04:02&stream=115618&extension=ts&play_token
 https://no2.openhd.lol/ddy1/premium126/tracks-v1a1/mono.m3u8
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115618&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1svZszL/astrosp5.png" group-title="Sports", ASSP 5
 https://webdi.openhd.lol/ddy1/premium43/index.m3u8
 http://line2.protv.cc:80/play/live.php?mac=00:1A:79:b2:7d:da&stream=918982&extension=ts
@@ -265,33 +264,37 @@ http://line2.protv.cc:80/play/live.php?mac=00:1A:79:b2:7d:da&stream=918982&exten
 https://no2.openhd.lol/ddy1/premium43/tracks-v1a1/mono.m3u8
 http://line2.protv.cc:80/play/live.php?mac=00:1A:79:72:0e:39&stream=918982&extension=ts
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Sports", beIN Sports 1
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/144
 https://webdi.openhd.lol/lb/premium116/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Sports", beIN Sports 1
+http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/163
 https://no2.openhd.lol/ddy1/premium116/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein2_big1.png" group-title="Sports", beIN Sports 2
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/145
 https://webdi.openhd.lol/lb/premium117/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein2_big1.png" group-title="Sports", beIN Sports 2
+http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/164
 https://no2.openhd.lol/ddy1/premium117/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02Xk0V6z/beineng1.png" group-title="Sports", beIN Sports 1 English
-https://webdi.openhd.lol/lb/premium61/index.m3u8
+http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/47294
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02Xk0V6z/beineng1.png" group-title="Sports", beIN Sports 1 English
-https://no2.openhd.lol/ddy1/premium61/tracks-v1a1/mono.m3u8
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/110
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTrzm3PJ/beineng2.png" group-title="Sports", beIN Sports 2 English
-https://webdi.openhd.lol/lb/premium90/index.m3u8
+http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/7482
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTrzm3PJ/beineng2.png" group-title="Sports", beIN Sports 2 English
-https://no2.openhd.lol/ddy1/premium90/tracks-v1a1/mono.m3u8
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/111
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52pRCrjr/beineng3.png" group-title="Sports", beIN Sports 3 English
-https://webdi.openhd.lol/lb/premium46/index.m3u8
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/267769
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52pRCrjr/beineng3.png" group-title="Sports", beIN Sports 3 English
-https://no2.openhd.lol/ddy1/premium46/tracks-v1a1/mono.m3u8
+http://ptv.is:2095/jYNTPHGx/ayUbbFPX/94444
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1twFxYDM/beinsprem1.png" group-title="Sports", beIN Sports 1 Premium
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=111600&extension=ts&play_token
+http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/47269
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1twFxYDM/beinsprem1.png" group-title="Sports", beIN Sports 1 Premium
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=111600&extension=ts&play_token
+http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J46GFW9M/beinsprem2.png" group-title="Sports", beIN Sports 2 Premium
-http://31.220.3.170/play/live.php?mac=00:1A:79:AB:A0:A6&stream=111601&extension=ts&play_token
+http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/47270
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J46GFW9M/beinsprem2.png" group-title="Sports", beIN Sports 2 Premium
-http://clientsportals.tv/play/live.php?mac=00:1A:79:c0:0f:95&stream=111601&extension=ts&play_token
+http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/9
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MpLz7bkN/championstv1_hd.png" group-title="Sports", Champions TV 1 HD
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6685.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QYx1T61/championstv2_hd.png" group-title="Sports", Champions TV 2 HD
