@@ -114,6 +114,10 @@ http://alstv.xyz/usee/inews.m3u8?
 http://alstv.xyz/usee/jaktv.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_jaktv_big1.png" group-title="TV Lokal", JakTv
 http://alstv.xyz/usee/jaktv.m3u8?
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_balitv_big1.png" group-title="TV Lokal", Bali Tv
+https://cdn09jtedge.indihometv.com/atemedvr/1672742389/0/BALITV_AT/BALITV_AT.mpd
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_balitv_big1.png" group-title="TV Lokal", Bali Tv
+https://cdn09jtedge.indihometv.com:443/atemedvr/1672742389/0/BALITV_AT/BALITV_AT.mpd
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_seatoday_big.png" group-title="TV Lokal", SEA Today
 http://alstv.xyz/usee/seatoday.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_seatoday_big.png" group-title="TV Lokal", SEA Today
@@ -157,63 +161,12 @@ http://118.98.229.118:1935/live/tve.stream/index.m3u8
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6838.m3u8
 http://118.98.229.118:1935/live/tve.stream/chunklist_w36933799.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_ocha_big.png" group-title="TV Lokal", MOJI
+http://210.210.155.37/qwr9ew/s/s41/index.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_ocha_big.png" group-title="TV Lokal", MOJI
 https://geocities.ws/ariev7xx/moji.m3u8
 https://ilike.squdinc.workers.dev/play.m3u8?id=206&key=vidio&type=hls
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_ocha_big.png" group-title="TV Lokal", MOJI
 https://devds.site/api/v.m3u8?ch=moji
-
-***
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJnXD9HL/TVdigitalindo.png" group-title="TV Digital", ANTV 
-https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fURNA8e1uIeFxuUQXyPVJIBo
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/PJnXD9HL/TVdigitalindo.png" group-title="TV Digital", BN Channel
-https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUUHpnkn2HnNi6iqb3GKZryU
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/PJnXD9HL/TVdigitalindo.png" group-title="TV Digital", CNBC Indonesia
-https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUcmHrulmp4V9AZaU2pOwlSk
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/PJnXD9HL/TVdigitalindo.png" group-title="TV Digital", CNN Indonesia
-https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUSSVqzs1QszXb5iqO-H8Guk
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/PJnXD9HL/TVdigitalindo.png" group-title="TV Digital", GTV
-https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUUsvHgb9MInqgzmSdYsTbCs
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/PJnXD9HL/TVdigitalindo.png" group-title="TV Digital", Indosiar
-https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUZTLZ0cUFUXPlNyoaB7k09Q
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/PJnXD9HL/TVdigitalindo.png" group-title="TV Digital", iNews
-https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUcngfizmHPFW6vceGGnzPBE
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/PJnXD9HL/TVdigitalindo.png" group-title="TV Digital", Kompas TV
-https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUcd8ptiBnsXa697b1dEU9Io
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/PJnXD9HL/TVdigitalindo.png" group-title="TV Digital", Magna TV
-https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUbAp26iQiLuAddfk9eZNIHk
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/PJnXD9HL/TVdigitalindo.png" group-title="TV Digital", Metro TV
-https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUVwz1NZQ567p5EYzISbJJpc
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/PJnXD9HL/TVdigitalindo.png" group-title="TV Digital", MNC
-https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUeesS8f8vIWC5sM-T1RxMfs
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/PJnXD9HL/TVdigitalindo.png" group-title="TV Digital", Moji
-https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUQyhXNEAeLS0FJX01xbRrw8
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/PJnXD9HL/TVdigitalindo.png" group-title="TV Digital", Net. TV
-https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUUZy34ahx2y4BIXnsv16rxE
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/PJnXD9HL/TVdigitalindo.png" group-title="TV Digital", RCTI
-https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUUgM3fntbbeXP-IHCpzDtLs
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/PJnXD9HL/TVdigitalindo.png" group-title="TV Digital", RTV
-https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUUZR2lf8_SyZxuaYEiVRLGY
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/PJnXD9HL/TVdigitalindo.png" group-title="TV Digital", SCTV
-https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fURIrYqU0eqhx6XA7SaYhZyE
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/PJnXD9HL/TVdigitalindo.png" group-title="TV Digital", Trans 7
-https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUYyPKxp3_e4Def9g4FpP0Ko
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/PJnXD9HL/TVdigitalindo.png" group-title="TV Digital", Trans TV
-https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUbpbqd53inPofLmt_oiOqqc
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/PJnXD9HL/TVdigitalindo.png" group-title="TV Digital", TV One
-https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUaYD6BaBFJamI9Phsz0aBYI
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/PJnXD9HL/TVdigitalindo.png" group-title="TV Digital", TVRI
-https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUbRAliIlrJPBSl4Tjwccfr0
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/PJnXD9HL/TVdigitalindo.png" group-title="TV Digital", Berita Satu
-https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fURyC-JmzcnL5Lx4fY6vgMEU
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/PJnXD9HL/TVdigitalindo.png" group-title="TV Digital", Metro Globe Network
-https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUYeUXRH_LxR4WXPTP7DsphM
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/PJnXD9HL/TVdigitalindo.png" group-title="TV Digital", Vision Prime
-https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUXNMWiKHFLwpSC2bv76B1H4
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/PJnXD9HL/TVdigitalindo.png" group-title="TV Digital", OKTV
-https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fURKhx3b0CTWvh1B0cPMCr6U
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/PJnXD9HL/TVdigitalindo.png" group-title="TV Digital", Mentari TV
-https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUegpgpd3BASonyUy0001hqc
 
 ***
 
@@ -290,11 +243,11 @@ http://ptv.is:2095/jYNTPHGx/ayUbbFPX/94444
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1twFxYDM/beinsprem1.png" group-title="Sports", beIN Sports 1 Premium
 http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/47269
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1twFxYDM/beinsprem1.png" group-title="Sports", beIN Sports 1 Premium
-http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/8
+http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/9
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J46GFW9M/beinsprem2.png" group-title="Sports", beIN Sports 2 Premium
 http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/47270
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J46GFW9M/beinsprem2.png" group-title="Sports", beIN Sports 2 Premium
-http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/9
+http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MpLz7bkN/championstv1_hd.png" group-title="Sports", Champions TV 1 HD
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6685.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QYx1T61/championstv2_hd.png" group-title="Sports", Champions TV 2 HD
@@ -367,9 +320,12 @@ http://golive.yn.lt/stream/useesport/02.m3u8
 ***
 
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_axn_big.png" group-title="Movies", AXN
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=bioskopindonesia&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157542
 http://198.16.64.10:8278/Axn/playlist.m3u8?tid=MF5F8488555684885556&ct=19254&tsum=b053d03f18972fd57458dea9ae82c0aa
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_axn_big.png" group-title="Movies", AXN
+https://cdn09jtedge.indihometv.com/dvr/139/axn/manifest.mpd
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=bioskopindonesia&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 http://50.7.220.74:8278/Axn/playlist.m3u8?tid=MDAD8374621983746219&ct=19225&tsum=60883af30a38d2c40db4c04f8651ffaa
 http://198.16.64.10:8278/Axn/playlist.m3u8?tid=MDAD8374621983746219&ct=19225&tsum=60883af30a38d2c40db4c04f8651ffaa
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_bioskopindonesia_big1.png" group-title="Movies", Bioskop Indonesia
@@ -405,17 +361,19 @@ https://live-birutv.com/tele@biRUTV/chinesedrama.m3u8
 https://live-birutv.com/tele@biRUTV/chinesedrama.m3u8?id=cdrama
 ##EXTINF:-1 tvg-logo="https://i.postimg.cc/FHg5Ydjr/cinemax.png" group-title="Movies", Cinemax
 
-##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_flik_big1.png" group-title="Movies", Flik
-http://alstv.xyz/usee/flik.m3u8
-##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_flik_big1.png" group-title="Movies", Flik
-http://alstv.xyz/usee/flik.m3u8?
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_flik_big1.png" group-title="Movies", Flik
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=flik&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_flik_big1.png" group-title="Movies", Flik
+https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channel=flik&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_galaxy_big.png" group-title="Movies", Galaxy
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=galaxy&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_galaxy_big.png" group-title="Movies", Galaxy
 https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channel=galaxy&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
-##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_galaxypremium_big.png" group-title="Movies", Galaxy Premium
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_galaxypremium_big.png" group-title="Movies", Galaxy Premium
+https://cdn09jtedge.indihometv.com/dvr/139/galaxypremium/manifest.mpd
 http://alstv.xyz/usee/galaxypremium.m3u8
-##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_galaxypremium_big.png" group-title="Movies", Galaxy Premium
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_galaxypremium_big.png" group-title="Movies", Galaxy Premium
+https://cdn09jtedge.indihometv.com:443/dvr/139/galaxypremium/manifest.mpd
 http://alstv.xyz/usee/galaxypremium.m3u8?
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5mSyZ6N/hbo.png" group-title="Movies", HBO
 http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/197972
@@ -442,6 +400,10 @@ http://210.210.155.35/dr9445/h/h37/index.m3u8
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=hitsmovie&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_hitsmovie_big.png" group-title="Movies", HITS Movies
 http://alstv.xyz/usee/hitsmovie.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_big.png" group-title="Movies", IMC
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=imc&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_big.png" group-title="Movies", IMC
+https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channel=imc&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_new-mycinema_big.png" group-title="Movies", My Cinema
 http://210.210.155.35:80/uq2663/h/h192/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_new-mycinema_big.png" group-title="Movies", My Cinema
@@ -495,10 +457,10 @@ http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_arirang_big.png" group-title="Entertainment", Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8?
-##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_afc_big.png" group-title="Entertainment", AFN
-http://alstv.xyz/usee/afc.m3u8
-##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_afc_big.png" group-title="Entertainment", AFN
-http://alstv.xyz/usee/afc.m3u8?
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_afc_big.png" group-title="Entertainment", AFN
+https://cdn09jtedge.indihometv.com/dvr/139/afc/manifest.mpd
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_afc_big.png" group-title="Entertainment", AFN
+https://cdn09jtedge.indihometv.com:443/dvr/139/afc/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_dunialain_big.png" group-title="Entertainment", Dunia Lain
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=dunialain&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_dunialain_big.png" group-title="Entertainment", Dunia Lain
@@ -509,6 +471,7 @@ http://210.210.155.35:80/uq2663/h/h08/index.m3u8
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=kplus&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 http://210.210.155.35/uq2663/h/h08/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_kbsworld_big.png" group-title="Entertainment", KBS World
+https://cdn09jtedge.indihometv.com/dvr/139/kbsworld/manifest.mpd
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_kbsworld_big.png" group-title="Entertainment", KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
@@ -535,9 +498,15 @@ http://210.210.155.35:80/dr9445/h/h15/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueantextreme_ver1.png" group-title="Entertainment", Rock Action
 http://210.210.155.35/dr9445/h/h15/01.m3u8                     
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sone_small.png" group-title="Entertainment", ONE
+https://cdn09jtedge.indihometv.com/dvr/139/sone/manifest.mpd
 http://50.7.220.74:8278/One/playlist.m3u8?tid=MB4B6226023862260238&ct=19225&tsum=a05a992f9150d8a389300bf4e108767f
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sone_small.png" group-title="Entertainment", ONE
+https://cdn09jtedge.indihometv.com:443/dvr/139/sone/manifest.mpd
 http://198.16.64.10:8278/One/playlist.m3u8?tid=MB4B6226023862260238&ct=19225&tsum=a05a992f9150d8a389300bf4e108767f
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sgem_small.png" group-title="Entertainment", GEM
+https://cdn09jtedge.indihometv.com/dvr/139/sgem/manifest.mpd
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sgem_small.png" group-title="Entertainment", GEM
+https://cdn09jtedge.indihometv.com:443/dvr/139/sgem/manifest.mpd
 ##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_tlc_big.png" group-title="Entertainment", TLC
 http://alstv.xyz/usee/tlc.m3u8
 https://tv.googledrivelinks.com/live.php?c=TLC_HD_World&q=1200&e=.m3u8
@@ -568,7 +537,7 @@ https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channe
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtxnjcXP/discoasia.png" group-title="Knowledge", Discovery Asia
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=31014&extension=ts&play_token
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtxnjcXP/discoasia.png" group-title="Knowledge", Discovery Asia
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=31014&extension=ts&play_token=TQ6cftyhX8
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=31014&extension=ts
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_big.png" group-title="Knowledge", Discovery Channel
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=disco&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_big.png" group-title="Knowledge", Discovery Channel
@@ -598,9 +567,9 @@ http://15.235.142.228:8080/live/hometvfree/selaludihati/83.m3u8
 ##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_outdoor_big.png" group-title="Knowledge", Outdoor Channel
 http://15.235.142.228:8080/live/hometvfree/selaludihati/83.m3u8?id=outdoor
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4XwFbz7/luvnature.png" group-title="Knowledge", Love Nature
-http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4XwFbz7/luvnature.png" group-title="Knowledge", Love Nature
-http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4mGkNqd/smitsonianch.png" group-title="Knowledge", Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4mGkNqd/smitsonianch.png" group-title="Knowledge", Smithsonian Channel
@@ -664,7 +633,6 @@ https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=an
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://210.210.155.35/dr9445/h/h02/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_aniplus_big1.png" group-title="Kids", Aniplus
-http://210.210.155.35:80/dr9445/h/h02/index.m3u8
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=aniplus&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_babyfirst_big.png" group-title="Kids", Babyfirst
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=babyfirst&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
@@ -696,9 +664,9 @@ https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channe
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=horee&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_horee_big.png" group-title="Kids", Horee
 https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channel=horee&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JCJc1Rv/hiphiphoree.png" group-title="Kids", Hip Hip Horee
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0cDB0b3/hiphore.png" group-title="Kids", Hip Hip Horee
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/7052.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JCJc1Rv/hiphiphoree.png" group-title="Kids", Hip Hip Horee
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0cDB0b3/hiphore.png" group-title="Kids", Hip Hip Horee
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/7052.m3u8?
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_lingua_big.png" group-title="Kids", Lingua Channel
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=lingua&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
@@ -735,6 +703,7 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8?
 http://210.210.155.35:80/qwr9ew/s/s28/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdgGxZym/alsunnah.png" group-title="Religi", AL Sunnah Nabawi TV
 http://210.210.155.35:80/qwr9ew/s/s27/01.m3u8
+https://edge.taghtia.com/sa/6.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_big1.png" group-title="Religi",DAAI TV
 http://210.210.155.35/qwr9ew/s/s13/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvmui_big.png" group-title="Religi", MUITV
@@ -760,14 +729,14 @@ https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6587.m3u8
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_ikonser_big.png" group-title="Music", iKonser
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=ikonser&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjZsP7Mc/mtvbiggestpop.jpg" group-title="Music", MTV Biggest Pop
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9Rh7N54/mtvbigpop.png" group-title="Music", MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_big.png" group-title="Music", MTV Live
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=mtvlive&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvJjTJCQ/mtvblocparty.png" group-title="Music", MTV Block party
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59D1TvyY/musicavidio.png" group-title="Music", Musica
-https://ilike.squdinc.workers.dev/play.m3u8?id=7619&key=vidio&type=hls
+https://dl.dropbox.com/s/mb8357j4ybu2yny/musica.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_musikindo_big.png" group-title="Music", Musik Indonesia
 http://usee.yurend.web.id/usee/MUSIKINDO.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_prambors_big1.png" group-title="Music", Prambors TV
