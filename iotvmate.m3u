@@ -44,7 +44,7 @@ https://anevia114.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://images.useetv.com/assets/logo_mnc_hd.png" group-title="TV Lokal", MNCTV
 https://anevia115.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/assets/logo_gtv_hd.png" group-title="TV Lokal", MNCTV+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/assets/logo_mnc_hd.png" group-title="TV Lokal", MNCTV+
 https://d-mnctv.rctiplus.id/MNCTV_2021.m3u8|referer=https://m.rctiplus.com/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -580,6 +580,14 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chu
 http://198.16.64.10:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/63DtbMVb/Elevensports.png" group-title="Sports", ELEVEN2
 http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnPMTWmB/fsone.png" group-title="Sports", FS1
+https://2no.co/vipfs1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnPMTWmB/fsone.png" group-title="Sports", FS1 HD
+https://2no.co/vipfoxsports1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRFWPdjh/fstwo.png" group-title="Sports", FS2
+https://2no.co/vipfs2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRFWPdjh/fstwo.png" group-title="Sports", FS2 HD
+https://2no.co/vipfoxsports2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7644LpWQ/Densplay.png" group-title="Sports", Dens Play
 http://210.210.155.37/x6bnqe/s/s37/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65GDxdby/onegolf.png" group-title="Sports", One Golf
@@ -1008,7 +1016,7 @@ http://210.210.155.35:80/uq2663/h/h08/index.m3u8
 http://210.210.155.35/uq2663/h/h08/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_kbsworld_big.png" group-title="Entertainment", KBS World
-https://cdn09jtedge.indihometv.com/dvr/139/kbsworld/manifest.mpd
+https://cdn09jtedge.indihometv.com/dvr/139/kbsworld/manifest.m3u8
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_kbsworld_big.png" group-title="Entertainment", KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
@@ -1081,6 +1089,7 @@ https://anevia114.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment
 https://anevia114.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fashiontv_big1.png" group-title="Lifestyle", Fashion TV
+https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg16_adaptive_v3.smil/master.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fashiontv_big1.png" group-title="Lifestyle", FTV GLOBAL
 https://production-premium-fashiontv-vidio.akamaized.net/fashion/_definst_/ftv_pg13_adaptive_v3.smil/master.m3u8
@@ -1345,6 +1354,10 @@ http://51.79.82.208:16058
 http://198.16.64.10:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&tsum=b2683db779f0d06341b243e292480482
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/90vdCwqy/Booblack.png" group-title="Malaysia", BOO
 http://23.237.10.66:16420
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/X7ShWWgB/dramasangat.png" group-title="Malaysia", Drama Sangat
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/mkxdT37W/duniasinema.png" group-title="Malaysia", Dunia Sinema
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 ***
 
