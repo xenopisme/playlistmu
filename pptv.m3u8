@@ -52,8 +52,7 @@ http://210.210.155.35/qwr9ew/s/s104/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_big1.png" group-title="TV Lokal", TVONE
 http://210.210.155.35/qwr9ew/s/s105/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_big1.png" group-title="TV Lokal", TVONE
-https://iplis.ru/livetvone
-https://geocities.ws/ariev7xx/tvone.m3u8
+http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_big1.png" group-title="TV Lokal", TVONE
 https://devds.site/api/indihoy/hls.m3u8?ch=tvone
 http://210.210.155.35/qwr9ew/s/s105/01.m3u8
@@ -73,6 +72,7 @@ https://geocities.ws/ariev7xx/antv.m3u8
 https://devds.site/api/v.m3u8?ch=antv
 http://210.210.155.37:80/qwr9ew/s/s07/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_big1.png" group-title="TV Lokal", INDOSIAR
+https://2no.co/vipindosiar
 http://210.210.155.35/qwr9ew/s/s04/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_big1.png" group-title="TV Lokal", INDOSIAR
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
@@ -80,6 +80,7 @@ https://geocities.ws/ariev7xx/indosiar.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_big1.png" group-title="TV Lokal", INDOSIAR
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=indosiar&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_big1.png" group-title="TV Lokal", SCTV
+https://2no.co/vipsctv
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_big1.png" group-title="TV Lokal", SCTV
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
@@ -216,24 +217,22 @@ https://webdi.openhd.lol/ddy1/premium126/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYMGRVXP/astrosp4.png" group-title="Sports", ASSP 4
 http://clientsportals.tv/play/live.php?mac=00:1A:79:00:04:02&stream=115618&extension=ts&play_token
 https://no2.openhd.lol/ddy1/premium126/tracks-v1a1/mono.m3u8
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/W1svZszL/astrosp5.png" group-title="Sports", ASSP 5
-https://webdi.openhd.lol/ddy1/premium43/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1svZszL/astrosp5.png" group-title="Sports", ASSP 5
+https://iplis.ru/vipassp5
 http://line2.protv.cc:80/play/live.php?mac=00:1A:79:b2:7d:da&stream=918982&extension=ts
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/W1svZszL/astrosp5.png" group-title="Sports", ASSP 5
-https://no2.openhd.lol/ddy1/premium43/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1svZszL/astrosp5.png" group-title="Sports", ASSP 5
+https://iplis.ru/vipassp5?
 http://line2.protv.cc:80/play/live.php?mac=00:1A:79:72:0e:39&stream=918982&extension=ts
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Sports", beIN Sports 1
+https://iplis.ru/vipbeins1
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/144
-https://webdi.openhd.lol/lb/premium116/index.m3u8
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Sports", beIN Sports 1
+##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Sports", beIN Sports 1
 http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/163
-https://no2.openhd.lol/ddy1/premium116/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein2_big1.png" group-title="Sports", beIN Sports 2
+##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein2_big1.png" group-title="Sports", beIN Sports 2
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/145
-https://webdi.openhd.lol/lb/premium117/index.m3u8
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein2_big1.png" group-title="Sports", beIN Sports 2
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein2_big1.png" group-title="Sports", beIN Sports 3
+https://iplis.ru/vipbeins3
 http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/164
-https://no2.openhd.lol/ddy1/premium117/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02Xk0V6z/beineng1.png" group-title="Sports", beIN Sports 1 English
 http://obsfullhd.tv:25461/@woiptv/GD2sDVghPRtk/47294
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02Xk0V6z/beineng1.png" group-title="Sports", beIN Sports 1 English
@@ -312,6 +311,10 @@ https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=sp
 http://210.210.155.37:80/qwr9ew/s/s107/01.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/sXDcZVkP/tvrisporthd.jpg" group-title="Sports", TVRI Sport
 http://210.210.155.37/qwr9ew/s/s107/01.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/nck9HP3L/trueprem1.png" group-title="Sports", True Premier 1
+https://2no.co/viptrue1
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/wMbK2H6v/trueprem2.png" group-title="Sports", True Premier 2
+https://2no.co/viptrue2
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useesport_big.png" group-title="Sports", Usee Sport
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=useesport&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useesport_big.png" group-title="Sports", Usee Sport
@@ -325,8 +328,6 @@ https://miraeindaeyo.masuk.id:443/empede/masuk.m3u8?token2=burgerkingkong&channe
 
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_axn_big.png" group-title="Movies", AXN
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=axn&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157542
-http://198.16.64.10:8278/Axn/playlist.m3u8?tid=MF5F8488555684885556&ct=19254&tsum=b053d03f18972fd57458dea9ae82c0aa
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_axn_big.png" group-title="Movies", AXN
 https://cdn09jtedge.indihometv.com/dvr/139/axn/manifest.mpd
 http://50.7.220.74:8278/Axn/playlist.m3u8?tid=MDAD8374621983746219&ct=19225&tsum=60883af30a38d2c40db4c04f8651ffaa
@@ -357,6 +358,10 @@ https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6684.m3u8?
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6401.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_citradrama_big.png" group-title="Movies", Citra Drama
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6401.m3u8?
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHg5Ydjr/cinemax.png" group-title="Movies", Cinemax
+https://2no.co/vipcinemax
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHg5Ydjr/cinemax.png" group-title="Movies", Cinemax
+https://yip.su/livecinemax
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_flik_big1.png" group-title="Movies", Flik
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=flik&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_flik_big1.png" group-title="Movies", Flik
@@ -370,17 +375,25 @@ https://cdn09jtedge.indihometv.com/dvr/139/galaxypremium/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_galaxypremium_big.png" group-title="Movies", Galaxy Premium
 https://cdn09jtedge.indihometv.com:443/dvr/139/galaxypremium/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5mSyZ6N/hbo.png" group-title="Movies", HBO
+https://2no.co/viphbohd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5mSyZ6N/hbo.png" group-title="Movies", HBO
 http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/197972
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5mSyZ6N/hbo.png" group-title="Movies", HBO
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/197972
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pL4xjhT3/hbohits.png" group-title="Movies", HBO HITS
+https://2no.co/viphbohits
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pL4xjhT3/hbohits.png" group-title="Movies", HBO HITS
 http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/196480
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pL4xjhT3/hbohits.png" group-title="Movies", HBO HITS
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/196480
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nhzBz5j0/hbosig.png" group-title="Movies", HBO SIGNATURE
+https://2no.co/viphbosig
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhzBz5j0/hbosig.png" group-title="Movies", HBO SIGNATURE
 http://pprotv.com:80/live/20042004/20202020/39504.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nhzBz5j0/hbosig.png" group-title="Movies", HBO SIGNATURE
 http://ku03.wanicelife.com:8880/12mm070056/67571551/60456
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/507jZ9pJ/hbofam.png" group-title="Movies", HBO Family
+https://2no.co/viphbofam
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/507jZ9pJ/hbofam.png" group-title="Movies", HBO Family
 http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/62172
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/507jZ9pJ/hbofam.png" group-title="Movies", HBO Family
